@@ -19,10 +19,11 @@ Term 4:
 
     D333 Ethics in Technology 3CUs
     D282 Cloud Foundations 3CUs
-    D386 Hardware and Operating Systems Essentials 
+    D386 Hardware and Operating Systems Essentials 3CUs
 
 Term 5:
 
+    C458 Health Fitness and Wellness 4CUs
     D492 Data Analytics - Applications 4CUs
     D420 Discrete Math: Logic 1CU
     D421 Discrete Math: Functions and Relations 1CU
