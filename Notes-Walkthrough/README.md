@@ -4,7 +4,7 @@ These are some tips and tricks, I've seen or read before enrollment. All example
 
 I watched a YouTube video about this course, and the presenter shared some valuable advice. The key takeaways include following the instructions precisely and ensuring correct capitalization in the SQL query section. However, based on his demonstration in ZyBooks, it appears that case sensitivity doesn't matter. Therefore, I suggest using all capital letters for <ins>clauses</ins>, <ins>keywords</ins>, <ins>data types</ins>, and <ins>operators</ins> ( :capital_abcd: ), and for the names of columns and tables, employing camelcase or title case for each word. For instance:<br>
 
-### <p style="color:#FF975A">Creating tables</p>
+### Creating tables
 
 The __Member__ table will have the following columns:<br>
 
