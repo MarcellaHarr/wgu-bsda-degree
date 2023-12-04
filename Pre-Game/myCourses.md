@@ -37,7 +37,7 @@ Term 6:
 
 Term 7:
 
-    D426 Influential Communication through Visual Design and Storytelling 3CUs
+    D246 Influential Communication through Visual Design and Storytelling 3CUs
     C949 Data Structures and Algorithms I  4CUs
     D496 Introduction to Data Science  4CUs
     D497 Data Wrangling 3CUs
