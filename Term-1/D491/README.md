@@ -5,7 +5,7 @@
 
 I thoroughly engaged with the course materials, including all sections, three external course books, and both internal and external videos. Additionally, I completed quizzes for each section and attempted the pre-assessment (PA) three times, passing once and failing twice. Utilizing the study guide provided in the course's resources directory proved beneficial. Personally, I found the pre-assessment (PA) easier compared to the objective assessment (OA).
 
-During my study sessions, I devoted significant attention to the *Data Analytics Lifecycle* section, which comprises the majority of the assessment:
+During my study sessions, I devoted significant attention to the *Data Analytics Lifecycle* section, which comprises the majority of the assessment. Below is the outline of sections per the PA and an additional section from the study guide:
 
 ### Section 1
 #### Careers and Roles in Data Analytics - 20% of assessment
@@ -14,9 +14,10 @@ During my study sessions, I devoted significant attention to the *Data Analytics
 
 | Resource     | Go to its Link/Path          |
 |--------------|------------------------------|
-| Anki Decks   | [Link to Anki Decks](#) |
-| Study Guide  | [Link to Study Guide](#) |
-| Books        | [Link to Books](#)       |
+| Anki Decks   | [D491 Anki Folder](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/D491_Anki/) |
+| Study Guide  | [Section 1: Careers & Roles in Data Analytics](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/Careers%20and%20Goals%20Section.pdf) |
+| Book        | *Data Science & Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data* by __EMC Education Services__     |
+| Book | *Build a Career in Data Science* by __Emily Robinson__ & __Jacqueline Nolis__|
 <br>
 
 ### Section 2
@@ -26,9 +27,9 @@ During my study sessions, I devoted significant attention to the *Data Analytics
 
 | Resource     | Go to its Link/Path          |
 |--------------|------------------------------|
-| Anki Decks   | [Link to Anki Decks](#) |
-| Study Guide  | [Link to Study Guide](#) |
-| Books        | [Link to Books](#)       |
+| Anki Decks   | [D491 Anki Folder](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/D491_Anki/) |
+| Study Guide  | [Section 2: The Data Analytics Lifecycle](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/The%20Data%20Analytics%20Lifecycle%20Section.pdf) |
+| Books        | *Data Science & Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data* by __EMC Education Services__ |
 <br>
 
 ### Section 3
@@ -38,9 +39,23 @@ During my study sessions, I devoted significant attention to the *Data Analytics
 
 | Resource     | Go to its Link/Path          |
 |--------------|------------------------------|
-| Anki Decks   | [Link to Anki Decks](#) |
-| Study Guide  | [Link to Study Guide](#) |
-| Books        | [Link to Books](#)       |
+| Anki Decks   | [D491 Anki Folder](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/D491_Anki/) |
+| Study Guide  | [Section 3: Defining Values for Success](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/Defining%20Values%20for%20Success%20Section.pdf) |
+| Books        | *Data Science & Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data* by __EMC Education Services__ |
+| Book | *Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management* by __Gordon S. Linoff__ & __Michael J. A. Berry__ |
+<br>
+
+### Section 4
+#### Additional Information
+> This section involves additional vocabulary, terms, and information that students should know.
+> __-WGU__
+
+| Resource     | Go to its Link/Path          |
+|--------------|------------------------------|
+| Anki Decks   | [D491 Anki Folder](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/D491_Anki/) |
+| Study Guide  | [Section 4: Additional Topics and Information](../../Notes-Walkthrough/D491-Intorduction_to_Analytics/Additional%20Topics%20and%20Information%20Section.pdf) |
+| Books        | *Data Science & Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data* by __EMC Education Services__ |
+| Book | *Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management* by __Gordon S. Linoff__ & __Michael J. A. Berry__ |
 <br>
 
 __I successfully completed this course on February 7th, 2024!__
