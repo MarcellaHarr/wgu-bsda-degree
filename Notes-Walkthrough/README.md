@@ -1,4 +1,4 @@
-![D491 Cover Image](../images/D491_Notes-Walkthrough_cover.jpg)
+![D491 Cover Image]()
 
 <br>
 
