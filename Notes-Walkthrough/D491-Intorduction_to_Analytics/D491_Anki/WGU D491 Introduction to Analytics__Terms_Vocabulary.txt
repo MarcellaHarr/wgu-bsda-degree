@@ -1,0 +1,310 @@
+#separator:tab
+#html:true
+a coming together to solve a business problem through the creative use of data and statistical modeling to tell a compelling story that drives strategic action and results in business value.	data analytics
+a field of study that involves using computational and statistical techniques to extract insights and knowledge from data.	data science
+a container or storage location that holds a value; variables can be manipulated throughout the data analysis process to achieve the necessary results.	variables
+used to evaluate the performance of an organization, a department, or an individual against its objectives and goals, blank measure the progression toward those targets and give insights on continuous improvement; this allows organizations the ability to make an informed decision.	key performance indicator (KPI)
+a method of comparing two versions of an application to determine which one performs better; this allows organizations to visually see which method works best with their environments.	A/B Testing
+a set of instructions or steps that a program follows to solve particular problems or perform specific tasks.	algorithm
+a storage place that allows organizations to store large amounts of structured and unstructured data in its true format and allows it to scale until it is needed for applications.	data lakes
+any person, group, or organization with an interest or concern in the activities, decisions, or outcomes of the organization or business.	stakeholders
+refers to the boundaries of a project, including the objectives, goals, deliverables, tasks, and resources required to complete the project successfully.	scope
+a key stakeholder who provides the project with the necessary support and resources and ensures that the project is aligned with the organization’s goals and values.	project sponser
+leads the team from the planning to completion phases of a project, ensuring that it meets the project’s goals within the specified time, budget, and resource restraints.	project manager
+manage the project’s financial resources; are involved in planning, budgeting, and reporting processes.	financial operations
+this role ensures the project’s data is organized, secured, and easily accessible by designing, implementing, and maintaining the project’s database system.	database administrator
+design and execute research studies, collect and analyze data, and interpret research findings.	researchers
+individuals involved in the project’s development, objectives, and execution; _______ can bring valuable resources, expertise, and market knowledge to the organization, and their success is often closely tied to the business’s success.	partners
+collects and analyzes data to identify patterns, trends, and insights that inform business decisions.	data analyst
+designs and develops strategies for analyzing and presenting data to stakeholders.	business intelligence (BI) analyst
+this role uses statistical and computational methods to extract insights from complex datasets and develop predictive models.	data scientist
+this type of stakeholder applies mathematical, statistical, and computational techniques to help organizations make better decisions.	decision scientist
+designs and builds the systems that store, process, and manage copious amounts of data.	data engineer
+builds and trains algorithms to help automate tasks and improve decision-making.	machine learning (ML) engineer
+this stakeholder is typically of a senior executive who approves the project budget and resources. this stakeholder ensures the project aligns with the organization's strategic goals and objectives.	project sponsor
+this stakeholder is responsible for overseeing a project from start to finish, ensuring that the project is completed on time, within budget, and meets the project's objectives. this stakeholder is responsible for coordinating resources, managing schedules, budgets, and timelines, and ensuring all stakeholders are informed throughout the project.	project manager
+this stakeholder refers to the activities and processes involved in managing an organization's financial transactions, resources, and reporting. this stakeholder manage budgets, process payments, manage financial records, and ensure compliance with financial regulations.	financial operations
+this stakeholder manages and maintains an organization's database systems. this stakeholder ensures that data is securely stored, easily accessible, and quickly retrieved when needed.	database administrators (DBAs)
+this stakeholder conducts systematic investigations or inquiries into a specific field or topic to discover new knowledge or improve existing knowledge. this role is usually trained in a specific area and use various methods and techniques to collect, analyze, and interpret data.	researchers
+this stakeholder is of individuals, companies, or organizations collaborating to achieve common business goals. there can be formal or informal agreements between two or more parties where each of this role contributes resources, expertise, or assets to the partnership.	partners
+this stakeholder is the people who will ultimately use the insights provided by the data analytics project to make decisions. this role can be internal stakeholders, such as managers or employees, or external stakeholders, such as customers or clients.	end users (customers)
+(IHs), stands for ____?	initial hypotheses (IHs)
+(ELT), stands for ___?	extract, load, and transform (ELT)
+ETLT, stands for ___?	(ELT) and (ETL) abbreviated
+a structured approach to address big data&nbsp;issues and data science projects, consisting of six phases that help teams derive actionable insights from data.	data analytics lifecycle
+refers to the vast amount of information collected, stored, and analyzed by businesses and organizations; its unique aspects can differ between organizations and include up to seven characteristics.	big data
+the diverse types of data, including structured (like spreadsheets), semi-structured (such as emails), and unstructured formats (like social media posts); big data comes from numerous sources, including text, images, videos, social media interactions, and sensor data.	variety
+the speed at which data is produced, collected, and processed; in the context of big data, ____ refers to the need for quick analysis and decision-making based on the data gathered.	velocity
+the accuracy, reliability, and quality of the data collected and analyzed; ensuring data _____ is essential for gaining valuable insights and making informed decisions.	veracity
+the sheer amount of data generated and handled by businesses; big data involves dealing with enormous quantities of data, ranging from terabytes to petabytes and beyond, which can be challenging in terms of storage and processing.	volume
+items necessary for a successful project; can include items such as technology, tools, systems, data, and people.	resources
+the process of stating the data analytics problem to be solved.	framing
+an initial idea that a data analytics team can test using available data.	hypothesis
+(OLTP), stands for ____?	online transaction processing (OLTP) databases
+(OLAP), stands for ____?	online analytical processing (OLAP) cubes
+(API), stands for ____?	application programming interface (API)
+refers to the process of cleaning data, normalizing datasets, and performing transformations on the data.	data conditioning
+the team can explore the data without interfering with live production databases.	analytic sandbox a.k.a workspace
+"the process of stating the
+analytics problem to be solved."	framing
+(EDW), stands for _____.	enterprise data warehouse (EDW)
+a centralized storage system for a company's data that is often the ideal location for data mining tasks.	corporate data warehouse
+refers to the accessibility of data from various sources like departmental databases, operational systems, or external sources, which influences the selection process in the data preparation phase.	data availability
+refers to processes for handling errors, missing data, and other problems in dirty data.	"<span style=""font-style: inherit;"">data cleaning</span>"
+refers to the intricacy and structure of the data, which affects the amount of data required for the analytics process.	data complexity
+nominal, ordinal data types	qualitative
+interval, ratio data types	quantitative
+a programming language and software framework for statistical analysis and graphics, available under the GNU General Public License.	R
+rejection of the null hypothesis when the null hypothesis is true.	"<span style=""font-style: inherit;"">type I error</span>"
+acceptance of a null hypothesis when the null hypothesis is false.	"<span style=""font-style: inherit;"">type II error</span>"
+(ARD), stands for _____?	automatic relevance determination (ARD)
+this referes to&nbsp;determining the correlation while the explanation remains unknowable and untraceable.	black box prediction
+potential models for clustering, classifying, or finding relationships in data.	candidate models
+refers to the arrangement and organization of data used in the analysis process.	dataset structure
+methods and tools used to analyze and process data to achieve business objectives.	analytical techniques
+the process of identifying essential predictors and variables to include in the model.	variable selection
+data organized in a specific format or schema, making it easier to analyze.	structured data
+data that lacks a specific format or structure, often requiring additional processing before analysis.	unstructured data
+(GUI), stands for ___?	graphical user interface (GUI)
+(ROC) chart, stands for____?	receiver operating characteristics (ROC) chart
+the dataset used for model development, where the model learns patterns and relationships in the data.	training data
+a separate dataset, also called hold-out data, used to evaluate the model's performance and accuracy on unseen data.	test data
+includes developing and fitting an analytical model on the training data.	model building phase
+the process of evaluating the technical merits of a model, such as accuracy, comprehensibility, and confidence in predictions.	model assessment
+the percentage of records classified correctly or incorrectly, used to measure the accuracy of a model.	error rate
+a measure that indicates the change in concentration of a particular class when the model is used to select a group from the general population.	lift
+a performance measurement for binary response models, comparing the true positive rate with the false positive rate.	ROC charts
+benchmarks used to determine whether the analysis has met its objectives.	success and failure criteria
+individuals or groups interested in the project and its outcomes.	stakeholders
+measures whether the observed results are likely to have occurred by chance or if they indicate a genuine relationship between variables.	statistical significance
+the process of adjusting and improving the analytical model based on the findings and feedback from stakeholders.	model refinement
+a group in an experiment that does not receive treatment or intervention, serving as a baseline for comparison.	control group
+a small-scale deployment of the model in a live setting, allowing the data science team to manage risk, evaluate performance, and make adjustments before a full-scale deployment.	pilot project
+the system where the model is deployed and integrated with existing business processes as opposed to a sandbox or testing environment.	production environment
+the ongoing process of checking the model's performance and retraining it if its accuracy degrades over time.	model accuracy monitoring
+a situation in which the inputs to the model are outside the range it was trained on, potentially causing inaccurate or invalid outputs.	out-of-bounds operation
+which tool is commonly used for data preparation?	OpenRefine. it is a free, open-source tool for working with messy data, making it suitable for data preparation tasks.
+this tool is an open-source framework designed for the distributed processing of large datasets across clusters of computers. It can handle massive parallel ingestion and custom analysis for web traffic parsing, GPS location analytics, and combining unstructured data feeds from multiple sources.	Hadoop
+which sequence of steps should you follow during the data preparation phase?<div><ol><li>Formulate hypothesis, gather data, examine findings, conclude analysis</li><li>Obtain data, store data, create charts, finalize report</li><li>Generate visuals, modify data, analyze patterns, cooperate with IT department</li><li>Set up sandbox, extract and transform data, condition data, explore visually</li></ol></div>	4
+this phase focuses on identifying candidate models for clustering, classifying, or finding relationships and ensuring analytical techniques align with business objectives.	model planning (phase 3)
+what is the primary purpose of the model planning phase in the data analytics process?<div><ol><li>Identifying methods and aligning techniques with objectives</li><li>Transforming data to bring information to the surface</li><li>Cleaning and conditioning data for analysis</li><li>Assessing resources and framing the business problem</li></ol></div>	1
+which activities should be the focus of the model building phase?<div><ol><li>Partitioning the data into training, validation, and test sets</li><li>Transforming data to bring information to the surface</li><li>Cleaning and conditioning data for analysis</li><li>Visualizing and exploring data patterns</li></ol></div>	1
+which tool is commonly used during the model planning phase?<div><ol><li>OpenRefine</li><li>KNIME</li><li>Data Wrangler</li><li>Hadoop</li></ol></div>	2
+this model is often preferred for predicting the risk of medical conditions due to its ability to provide probabilities.	logistic regression
+in this phase/stage, analysts focus on creating separate data subsets for training and testing, fine-tuning the selected models to improve their performance, and evaluating how well these models predict outcomes based on their validity and predictive strength.	model building/execution (phase 4)
+which activities should the data analytics team perform during the model execution phase of this project?<div><ol><li>Grouping categorical variables and standardizing numeric values</li><li>Deploying the model and measuring its return on investment</li><li>Generating training and test sets and refining models to enhance performance</li><li>Creating data visualizations and capturing essential predictors</li></ol></div>	3
+this is a commercial tool specifically designed for model building and execution, making it suitable for the model building/execution phase of the project.	SAS Enterprise Miner
+which tool is suitable for a data analytics team to use during the model building/execution phase of a project?<div><ol><li>Tableau</li><li>SAS Enterprise Miner</li><li>Microsoft Excel</li><li>KNIME</li></ol></div>	2
+the purpose of this phase is to convey project outcomes, findings, and other relevant information to stakeholders.	communicate results (phase 5)
+what is the purpose of the communicate results phase in a data analytics project?<div><ol><li>Presenting findings and outcomes to stakeholders</li><li>Creating and refining analytical models</li><li>Evaluating the project's financial and technical results</li><li>Preparing and managing data for analysis</li></ol></div>	1
+the main goal of this phase is to convey the project outcomes and insights to stakeholders while evaluating the project's success and discussing possible improvements.	communicate results (phase 5)
+which activity should the data analytics team focus on during the communicate results phase?<div><ol><li>Analyzing the financial impact of the project on the company's revenue and customer retention</li><li>Performing data cleaning and transforming raw data into usable formats</li><li>Building and testing different predictive models for customer churn</li><li>Presenting key findings to stakeholders and evaluating the project's success</li></ol></div>	4
+Which tools are commonly used for communicating results in data analytics projects?<div><ol><li>Data visualization tools and presentation software</li><li>Predictive modeling software and programming languages</li><li>Text editors and spreadsheet software</li><li>Database management systems and data warehouses</li></ol></div>	1
+what do data analytics teams do in the operationalize phase of a data analytics project?<div><ol><li>Translate business problems into data mining problems and locate appropriate data</li><li>Explore data, create model sets, and partition them into training, validation, and test sets</li><li>Communicate project benefits, set up the pilot project, and deploy in production</li><li>Apply data transformations to fix problems with data and surface information</li></ol></div>	3
+in this phase, the team shares the advantages of the project, conducts a trial run, and puts the developed solution into practical use within the organization.	operationalize (phase 6)
+what is the primary purpose of the operationalize phase in a data analytics project?<div><ol><li>To develop and train various data models</li><li>To pilot the model, refine it, and fully deploy it</li><li>To explore data and partition it into training, validation, and test sets</li><li>To prepare and clean the data for analysis</li></ol></div>	2
+this phase tests the model in a controlled environment, making necessary adjustments and integrating it into the organization's processes.	operationalize (phase 6)
+What should business users and project sponsors do with their findings during the operationalize phase of a data analytics project?<div><ol><li>Develop and refine data models</li><li>Assess benefits, implications, and business impact</li><li>Produce detailed reports and visuals</li><li>Evaluate project completion and goals</li></ol></div>	2
+this role focuses on the benefits and implications of findings during the operationalize phase of a data analytics project.	business users
+this stakeholder's role focuses on the business impact, risks, and return on investment during the operationalize phase of a data analytics project.	project sponsors
+what should analysts do with the findings discovered during the operationalize phase of a data analytics project?<div><ol><li>Create technical specifications</li><li>Evaluate the project's success</li><li>Assess project risks and return on investment (ROI)</li><li>Modify reports and dashboards</li></ol></div>	4
+during the operationalize phase of a data analytics project, all ______s focus on understanding how the findings impact the reports and dashboards they manage, and they modify them accordingly.	analysts
+these three roles, share their code and create technical documents on how to implement it.	data scientists, data engineers, and database administrators (DBAs)
+this data analyst's responsibility of collecting and gathering large datasets, including databases, surveys, and other data sources from various platforms is	data collection
+<div>these data analyst's responsibility of cleaning and preparing datasets for analysis by correcting data errors, removing duplicates, and reviewing accuracy; these processes are also known as data filtering, data integration, data classification, data munging, and data summarization are.</div>	data cleaning, preparation, and processing
+<div>this data analyst's responsibility of utilizing statistical methods and data visualization tools to analyze large datasets, identify trends, and compile insights to assist organizations when making business decisions is.</div>	data analysis
+<div>this data analyst's responsibility of creating clear, concise reports and visuals that easily communicate findings to team members and key stakeholders is.</div>	data reporting and visualization
+<div>this data analyst's responsibility of using algorithms (sets of detailed instructions that are used to solve specific problems or calculate specific operations) to assist with predicting trends and future outcomes based on historical data is.</div>	predictive analysis
+<div>this data analyst's responsibility of collaborating with various team members and stakeholders to identify opportunities for improvement to make data-driven decisions is.</div>	data-driven decision-making
+<div>this data analyst's responsibility of professional development, continuously monitoring and evaluating the effectiveness of decision-making processes, and recommending improvements to drive better outcomes; data analysts must stay current with the latest trends and tools within the field; continuous improvement is needed because the field of data analytics is constantly evolving with new data sources, tools, and techniques, and data analysts must be able to adapt to these changes in processes over time is.</div>	continuous improvement
+<div>this business intelligence analyst's responsibility of creating reports based on certain findings, which organizations use to make decisions is.</div>	reporting
+<div>this business intelligence analyst's responsibility of utilizing historical data to forecast future trends to identify potential risks and opportunities within organizations; additionally, BI analysts can utilize forecasting beyond the structure of their organization for various services and products is.</div>	forecasting
+<div>this business intelligence analyst's responsibility of creating dashboards to provide real-time access to key performance indicators (KPIs), which helps business leaders identify areas within the business that may require attention is.</div>	dashboard creation
+<div>this business intelligence analyst's responsibility, after data is collected, analyzing the data to identify certain trends and possible patterns is.</div>	data analysis
+<div>this business intelligence analyst's responsibility of responsibility for the collection of data from various sources, which can include third-party sources, external databases, and internal systems is.</div>	data collection
+<div>this business intelligence analyst's responsibility of&nbsp; ensuring the data is accurate and secure, which includes reviewing quality data standards, reviewing data security measures, and monitoring data usage is.</div>	data governance
+<div>this data scientist’s responsibility uses _________ to create and apply mathematical models that optimize decision-making processes and outcomes, using statistical models to analyze data and identify patterns and relationships that inform decisions; in contrast, a BI analyst uses statistical analysis to analyze data and extract insights that can inform business decisions, such as identifying trends or opportunities for improvement is.</div>	statistical analysis
+<div>these data scientist’s responsibility of building models and simulations to understand how variables (containers or storage locations that hold a value) interact and how they are used to affect decisions within an organization; these variables can be manipulated throughout the data analysis process to achieve the necessary results are.</div>	modeling and simulation
+<div>this data scientist’s responsibility for mathematical optimization techniques are mathematical methods used to find the optimal solutions to a problem and to identify the best course of action that maximizes benefits and minimizes risks within an organization; mathematical optimization techniques can help make better decisions by identifying the best course of action based on a set of constraints and objectives is.</div>	optimization
+<div>this data scientist’s responsibility assessing risks associated with different decision options and developing strategies to mitigate those risks is.</div>	risk analysis
+<div>this data scientist’s responsibility of providing decision-makers with the tools and insights necessary to make informed decisions is.</div>	decision support
+<div>this data scientist’s responsibility presenting complex data and analysis clearly and understandably to stakeholders across different functions and levels of the organization; these stakeholders can range from junior to senior levels, depending on their roles is.</div>	communication
+<div>this data scientist’s responsibility in collaborating with key stakeholders to develop long-term strategic plans that align with organizational objectives or goals is.</div>	strategic planning
+<div>this data scientist’s responsibility identifying new opportunities for growth and innovation through data-driven insights and analysis is.</div>	innovation
+<div>this data scientist’s responsibility continuously monitoring and evaluating the effectiveness of decision-making processes and recommending improvements to drive better outcomes is.</div>	continuous improvement
+<div>this machine learning engineer’s responsibility a step in data analysis and machine learning that involves transforming and preparing raw data to make it suitable for analysis is.</div>	data preprocessing
+<div>this machine learning engineer’s responsibility selecting the appropriate machine learning models for the specific problem and data, which includes tasks such as selecting classification or regression models, neural networks, decision trees, and other models; in machine learning, a model is a mathematical representation of a system or process trained on a dataset to make predictions or decisions on new, unseen data is.</div>	model selection
+<div>this machine learning engineer’s responsibility for training machine learning models on data using various algorithms is.</div>	model training
+<div>this machine learning engineer’s responsibility of evaluating machine learning models on test data to measure the model’s accuracy, precision, recall, and other performance metrics is.</div>	model evaluation
+<div>this machine learning engineer’s responsibility deploying machine learning models into production environments and ensuring the models are scalable, reliable, and efficient is.</div>	model deployment
+<div>this machine learning engineer’s responsibility for developing software applications that integrate machine learning models into products or services is.</div>	software engineering
+<div>this machine learning engineer’s responsibility for creating and developing new machine learning algorithms or adapting existing algorithms to solve specific problems is.</div>	algorithm development
+<div>this machine learning engineer’s responsibility for optimizing machine learning models and algorithms for faster computation, lower memory usage, and higher accuracy is.</div>	performance optimization
+<div>this machine learning engineer’s responsibility using cloud computing platforms to deploy and scale machine learning systems is.</div>	cloud computing
+<div>this machine learning engineer’s responsibility collaborating with data scientists, software developers, and business stakeholders to identify and solve machine learning problems that align with business goals and objectives is.</div>	collaboration
+<div>this data engineer’s responsibility assisting with designing and developing data pipelines that move data from source systems to data storage systems, which includes tasks such as data ingestion, transformation, and loading is.</div>	data pipeline development
+<div>this data engineer’s responsibility managing the storage of data in databases, data lakes, and data warehouses, which includes tasks such as data partitioning, indexing, and replication is.</div>	data storage management
+<div>this data engineer’s responsibility of ensuring the quality of data by identifying and correcting errors, inconsistencies, and missing values is.</div>	data quality control
+<div>this data engineer’s responsibility implementing data security policies and procedures to protect sensitive data from unauthorized access, theft, or corruption is.</div>	data security
+<div>this data engineer’s responsibility designing and implementing data architecture that meets the organization's requirements for scalability, performance, and reliability is.</div>	data architecture design
+<div>this data engineer’s responsibility creating and developing ETL processes that transform raw data into structured data that can be used for analysis is.</div>	<strong>extract, transform, load (ETL)</strong>
+<div>this data engineer’s responsibility integrating data from various sources, formats, and systems to create a unified view of datasets is.</div>	data integration
+<div>this data engineer’s responsibility involves handling large volumes of data that are too complex or too large to be processed using traditional methods; managing big data requires using specialized tools and techniques to store, process, and analyze the data efficiently and effectively is.</div>	managing big data
+<div>this data engineer’s responsibility working with cloud computing platforms to deploy and manage data infrastructure is.</div>	cloud computing
+<div>this data engineer’s responsibility collaborating with data scientists, analysts, and stakeholders to understand data requirements and design infrastructures that support data-driven decision-making for businesses and organizations is.</div>	collaboration
+<div>this data scientist’s responsibility analyzing large and complex data sets using statistical and machine learning techniques to identify patterns, trends, and insights that inform decision-making is.</div>	data analysis
+<div>this data scientist’s responsibility developing visualizations such as charts, graphs, and dashboards to communicate insights and trends to nontechnical stakeholders is.</div>	data visualization
+<div>this data scientist’s responsibility of cleaning and preparing data for analysis, which may involve data cleaning, normalization, and feature engineering is.</div>	data cleaning
+this data scientist’s responsibility of designing and conducting A/B tests to evaluate the effectiveness of different strategies or interventions is.	A/B testing
+<div>this data scientist’s responsibility building machine learning models to automate decision-making processes, such as recommendation engines, fraud detection systems, or chatbots is.</div>	machine learning
+<div>this data scientist’s responsibility of developing narratives and presentations that explain complex technical concepts and insights to nontechnical stakeholders clearly and concisely is.</div>	data storytelling
+<div>this data scientist’s responsibility of collaborating with data engineers, software developers, and business stakeholders to understand data requirements and design solutions that align with business goals is.</div>	collaboration
+<div>this data scientist’s responsibility of designing and conducting experiments to test hypotheses and validate assumptions within the data is.</div>	experimentation
+<div>this data scientist’s responsibility of continuously monitoring and evaluating the effectiveness of their solutions and processes to improve decision-making outcomes over time is.</div>	continuous improvement
+<div>this project sponsor’s responsibility for defining the business outcome of the project, including the project's goals, objectives, and expected benefits. the project’s business outcome must be aligned with the organization's overall strategy is.</div>	defining the project's business outcome
+<div>this project sponsor’s responsibility for providing the necessary funding for the project. This includes budgeting for project costs, such as salaries, equipment, and materials necessary for success is.</div>	providing project funding
+<div>this project sponsor’s responsibility for providing oversight and continuous improvement for the project. this includes monitoring project progress, reviewing project plans and reports, and ensuring the project stays on track is.</div>	providing project oversight
+<div>this project sponsor’s responsibility for supporting the project team. this includes removing obstacles, providing guidance, and resolving issues so the team stays on track with the given timeline is.</div>	providing project support
+<div>this project sponsor’s responsibility for approving project deliverables, such as requirements documents, design documents, and plans. this is to ensure that the project meets the required quality standards set by the organization is.</div>	approving project deliverables
+<div>this project manager’s responsibility for creating a detailed project plan that includes tasks, timelines, resources, and budgets is.</div>	planning
+<div>this project manager’s responsibility must allocate resources, such as people, equipment, materials, and other assets, effectively and efficiently to ensure the project is completed on time and within budget is.</div>	resource management
+<div>this project manager’s responsibility must identify potential risks to the project and develop strategies to prevent those risks is.</div>	risk management
+<div>this project manager’s responsibility must communicate with stakeholders to inform them about the project's progress, challenges, and successes is.</div>	communication
+<div>this project manager’s responsibility manages the project team, including delegating tasks, providing guidance and support, and resolving conflicts is.</div>	team management
+<div>this project manager’s responsibility must ensure that the project meets quality standards and that deliverables meet the project's requirements is.</div>	quality assurance
+<div>this project manager’s responsibility must monitor the project's progress and make adjustments to ensure that the project stays on track is.</div>	monitoring and controlling
+this financial operations’ responsibility to create and maintain the project budget. They must ensure that the budget accurately reflects the project's needs and is realistic and achievable is.	budgeting
+<div>this financial operations’ responsibility must prepare and distribute financial reports to stakeholders to inform them of the project's financial performance. This includes preparing regular financial statements, variance reports, and budget-to-actual reports is.</div>	financial reporting
+<div>this financial operations’ responsibility monitor and control project costs. They must ensure that project expenses align with the budget and that any deviations are promptly identified and addressed is.</div>	cost control
+<div>this financial operations’ responsibility can manage the procurement process, including selecting vendors, negotiating contracts, and ensuring that goods and services are delivered on time and within budget is.</div>	procurement
+<div>this financial operations’ responsibility will be responsible for identifying and managing financial risks associated with the project. they must ensure that the project has adequate financial contingency plans to mitigate potential financial risks is.</div>	risk management
+<div>this financial operations’ responsibility will be responsible for securing funding for the project. they must identify potential funding sources and work with stakeholders to secure the necessary funding to support the project is</div>	funding
+<div>this database administrator’s responsibility for installing and maintaining the project's database system, including creating the database schema, defining data types and structures, and establishing relationships between tables is.</div>	database installation and maintenance
+<div>this database administrator’s responsibility for ensuring the security of the project's data by implementing access controls, encrypting sensitive data, and monitoring the database for security breaches or unauthorized access is.</div>	database security
+<div>these database administrator’s responsibility for creating and managing database backups and developing and testing disaster recovery plans to ensure that data can be restored during a system failure or data loss. the DBA is also responsible for managing the archiving of data that is no longer actively used but must be retained for compliance or other reasons are.</div>	database backup, recovery, and archiving
+<div>this database administrator’s responsibility for monitoring the database system's performance and identifying and resolving any issues that impact system performance. This may include optimizing queries, configuring database settings, and upgrading hardware or software components is.</div>	database performance
+<div>this researcher’s responsibility must work with project stakeholders to identify research questions that align with the project's objectives and are feasible to answer through research is.</div>	developing substantial research questions
+<div>this researcher’s responsibility for thoroughly reviewing existing literature to identify relevant research and data that can inform the project's objectives and research questions. this allows the team to stay current with any new research is.</div>	conducting literature reviews
+<div>this researcher’s responsibility for designing research studies that answer the project's research questions. this may involve selecting research methods, developing study protocols, and recruiting participants is.</div>	designing and executing research studies
+<div>this researcher’s responsibility must collect data through various methods, such as surveys, interviews, focus groups, and observation. they must ensure that data collection methods are reliable and valid, and that ethical considerations are addressed. these steps ensure results and data are not skewed or inaccurate is.</div>	collecting data
+<div>this researcher’s responsibility must interpret the results of their analyses in the context of the project's objectives and research questions. they should be able to communicate the results to project stakeholders clearly and concisely is.</div>	interpreting results
+<div>this researcher’s responsibility for research findings and results, researchers should provide recommendations that inform the project's objectives and guide decision-making. they should be able to articulate the implications of their recommendations and the potential impact on the project and provide alternatives if needed is.</div>	providing recommendations
+<div>this researcher’s responsibility must ensure the research is conducted with integrity and complies with ethical and regulatory guidelines. they must also ensure that the research is conducted transparently and rigorously is.</div>	ensuring research integrity
+<div>this partner’s responsibility will work together to define the project's scope, objectives, and requirements is.</div>	defining the project's scope
+<div>this partner’s responsibility will bring their expertise, knowledge, and resources to the project, which can help ensure the project’s success is.</div>	contributing expertise
+<div>this partner’s responsibility will contribute financial resources, personnel, equipment, or other resources to the project if necessary or required is.</div>	providing resources
+<div>this partner’s responsibility must collaborate effectively to achieve the project's objectives is.</div>	collaborating with other partners
+<div>this partner’s responsibility will be responsible for completing specific tasks or deliverables within a specific time frame is.</div>	meeting project deadlines
+<div>this partner’s responsibility will work with project managers to identify and mitigate risks that could affect the project's success is.</div>	managing project risks
+<div>this partner’s responsibility must maintain clear and regular communication to ensure everyone is on the same page and that the project is progressing as planned is.</div>	communicating effectively
+<div>this end user’s responsibility must provide their requirements for the project, including the features and functionality they want to see in the end product is.</div>	providing features and requirements
+<div>this end user’s responsibility can test the project at various stages and provide feedback on its usability, performance, and overall satisfaction is.</div>	testing and feedback
+<div>this end user’s responsibility can provide feedback that can be used in the design process and into the design decisions that impact the user experience is.</div>	participating in design decisions
+<div>this end user’s responsibility can provide feedback on the user documentation, ensuring that the project’s product is clear, concise, and meets their needs is.</div>	providing user documentation
+<div>this end user’s responsibility can promote the project and share their positive experiences with others, helping to drive adoption and success is.</div>	being a project advocate
+<div>this end user’s responsibility can provide data that can be used to analyze the project's success and identify areas for improvement is.</div>	providing data for analysis
+the level of interaction between users and a particular platform or piece of content; can include website traffic; social media likes, shares, and comments; email opens; click-through rates; and any other measurable action that indicates user interest and involvement is.	engagement
+"making brief documents
+that use data to try to explain a business situation or solve a business problem is called."	analyses
+"something that is
+generated on a recurring basis without much structural change between versions."	report
+"something that is done on a one-time
+basis to answer a deeper question."	analysis
+five traits of a good blank; it answers the question, it is made quickly, it can be shared, it is self-contained, and it can be revisited.	good analysis
+an analysis starts with a ______ for an answer to a business question.	request
+"in regards to the request step, the business question comes from
+this role."	stakeholders
+"when&nbsp;writing down everything you plan to do with the
+data and maing it actionable is called."	analysis plan
+data&nbsp;that is outside basic assumptions is known as.	weird data
+"this&nbsp;measures the relationship of concentration to
+penetration."	lift
+the model score that cuts the prospect list at the penetration where the benefit is greatest is also the score that maximizes this statistic.	"Kolmogorov-Smirnov (KS)
+statistic"
+descriptive analytics questions ask questions like.	what happened?
+diagnostic analytics questions ask questions like.	why did it happen?
+predictive analytics questions ask questions like.	what is likely to happen?
+"a data mining calculation that calculates&nbsp;the total revenue due to the customer minus the
+total cost of maintaining the customer over some period of time is."	customer value
+prescriptive analytics questions ask questions like.	what is the best course of action?
+exploratory analytics questions ask questions like.	what patterns are present?
+three types of the ususal tools for classification are.	logistic regression, decision trees, and neural networks
+"data mining supports both advertising
+and direct marketing to identify the right audience, choose the best communication channels, and pick the most appropriate messages. which CRM phase is this?"	acquisition phase
+what type of cutomers are&nbsp;compared to a profi le of the intended audience and given a fi tness score.	prospective customers
+"this&nbsp;common application of data mining, scores prospects on their likelihood to respond to a direct
+marketing campaign is a."	response model
+SG&amp;A expenses, stands for?	selling general and administrative expenses
+this data type includes numbers, which are either discrete or continuous. discrete data consists of whole numbers or integers (e.g., the number of people in a room), while continuous data includes decimals or fractions (e.g., weight, height).	numeric data
+this type of data consists of categories or labels, such as marital status (married or single) or education level (high school, college, etc.). this type of can be either nominal data (categories with no inherent order) or ordinal data (categories with a specific order).&nbsp;	categorical data
+favorite colors or types of pets owned. this type of categorical data is an example of.	nominal data
+pain scales or rating systems. this type of categorical data is an example of.	ordinal data
+this type of data includes text, such as comments, reviews, or descriptions.	textual data
+this type of data consists of observations or measurements taken over time, such as stock prices, weather patterns, or sales data.	time-series data
+this type of data includes information about geographic locations, such as maps or GPS coordinates.	spatial data
+this type of data consists of binary values such as 0 or 1, true or false responses, and yes or no questions.	binary data
+this type of data includes audio, video, and image files.	multimedia data
+this type of analysis divides customers into different groups based on similar characteristics such as demographics, behavior, and preferences; this allows businesses to tailor their marketing strategies and offerings to different customer groups, leading to more effective and efficient use of resources.	customer segmentation
+this data mining style is used when the historical data contains examples of what is being looked for, a target variable.	"<span style=""font-style: inherit;"">directed data mining</span>"
+this data mining task produces insights or answers questions, rather than producing models used for scoring.	"<span style=""font-style: inherit;"">exploratory data mining</span>"
+this type of data collection method, collects and analyzes information about a market, including its size, trends, competitors, and customer preferences,&nbsp;and helps businesses make informed decisions about their products and services, pricing, promotion, and distribution strategies.	market research
+this data mining style does not use a target variable.	"<span style=""font-style: inherit;"">undirected data mining</span>"
+is a variable that is manipulated or controlled by the researcher.	independent variable
+variable that is measured and affected by changes in the independent variable.	dependent variable
+this data analytics tool is for modeling decisions and their potential outcomes.	decision trees
+this data analytics technique groups similar objects or data points based on the object's characteristics or attributes.	clustering
+this rule identifies relationships and patterns in large datasets.	association rules
+this is when organizations uses it to analyze data&nbsp;to uncover hidden relationships, make accurate predictions, and better understand complex systems.	machine learning algorithms
+this type of analysis is when data is stored in a transactional database consisting of each transaction presented as a list of purchased items.	market basket analysis
+this type of mining aims to provide insights into actual executions rather than how executions should be.	process mining
+this type of t-test assumes that the two groups are independent of each other.	independent samples t-test
+this type of t-test assumes that the two groups are related in some way (e.g., before and after measurements).	paired samples t-test
+this type of correlation coefficient shows one variable increasing, as well as the other variable possibly increasing, too.	positive correlation coefficient
+this type of correlation coefficient shows the other variable tending to decrease as one variable increases.	negative correlation coefficient
+a correlation coefficient of 0 indicates, what?	no relationship exists between the variables
+this type of mining can identify patterns or sentiments of the data in an analysis.	text mining
+this type of machine learning uses layers of interconnected nodes or neurons to process information and make predictions.	neural networks
+this type of graph represents data over time.	line chart
+this type of graph visually displays the relationship between two variables. each point plotted on the graph is a data point, and the position of each point represents the comparative value of the two variables.	scatterplot
+this type of graph is a visualization tool that uses colors to represent data.	heat map
+this type of graph compares the performance of different products or services. it represents data in a visually appealing and easy-to-understand format.	bar chart
+this planned frequency&nbsp;quantifies, measures, and tracks different aspects of data, such as performance, efficiency, accuracy, and effectiveness. this is known as establishing.	correct metrics
+this metric measures the percentage of website visitors who complete a desired action, such as purchasing or filling out a form.	conversion rate
+this metric measures the percentage of people who click on a link or advertisement.	Click-through rate (CTR)
+this metric measures the total value of a customer to a business throughout their relationship.	customer lifetime value (CLV)
+this metric measures the percentage of customers who stop doing business with a company over a certain period.	churn rate
+this metric measures the cost of acquiring a new customer.	customer acquisition cost (CAC)
+this metric measures the profitability of an investment.	return on investment (ROI)
+this metric measures the percentage of website visitors who leave after viewing only one page.	bounce rate
+this metric measures a user’s time on a website.	time on site
+this metric measures the level of engagement with content or advertisements, such as likes, comments, and shares on social media.	engagement rate
+this metric measures the increase in revenue over a specific period.	revenue growth
+a&nbsp;branch of artificial intelligence focused on developing algorithms and models that allow computers to learn and make predictions or decisions based on data.	machine learning
+the process of finding the best solution to a problem or maximizing or minimizing an objective function, subject to constraints.	optimization
+this data analytics category uses statistical algorithms and machine learning techniques to analyze historical data and predict future events or outcomes.	predictive analytics
+a statistical method for examining the relationship between a dependent variable and one or more independent variables.	regression analysis
+uses graphical representations to communicate complex data and insights to stakeholders.	data visualization
+a technique used to group similar data points based on their characteristics or attributes.	clustering
+a class of machine learning algorithms used in data analytics that are inspired by the structure and function of the human brain; they are a type of artificial neural network that can learn and make predictions on complex data patterns.	neural networks
+this type of data is helpful for advertisers since it describes the age, socioeconomic status, and more of the user base.	demographic data
+this type of external data is relevant for a possible merger.	competitor analysis
+"this goes beyond describing what has happened (descriptive analytics) or predicting what might happen (predictive analytics) and focuses on answering the ""why"" questions."	diagnostic analytics
+True or False. the time frame of the data and its updating frequency can impact whether the data is suitable for analysis for a particular project.	true
+True or False. using a random sample of customers is the best method for collecting data.	True
+when calculating profit margins this data quality requirement is the first step needed to be done to the data.	accuracy
+this can model complex, nonlinear relationships between variables.	decision trees
+this is limited to linear relationships.	linear regression models
+this analytics technique is used for building a predictive model by combining multiple decision trees.	random forest
+this analytics technique is best used for data with both numerical and categorical variables.	logistic regression
+this type of chart only show the share of a group that adds up to 100%.	pie chart
+this type of plot visualizes data distribution, not complex relationships between variables.	box plot
+this plot has the ability to communicate complex information through color gradients.	heat map
+this type of plot is the best visualization technique to show data changes over time.	line chart
+this technique is the most effective when dealing with large datasets, especially if prior knowledge of the data structure is unknown.	clustering
+this plot is the most effective technique for identifying outliers in a dataset.	box plot
+this data requirement for logistic regression is needed to make probabilistic assessments throughout any scenario.	binary dependent variable
+this type of data is necessary to perform a cluster analysis.	continuous data
+this type of data has been cleaned, transformed, and standardized in order to&nbsp;perform machine learning analysis.	preprocessed data
+this type of metric should be used to summarize the central tendency of the data.	median
+this type of metric is less sensitive to outliers than the mean and provides a better representation of the central tendency of the data when there are extreme values.	median
+this type of metric gives data about the spread of all possible data points.	range

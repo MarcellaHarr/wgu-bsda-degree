@@ -1,0 +1,1172 @@
+#separator:tab
+#html:true
+"
+<div id=""io-header"">phase 1 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-1-Q.svg""></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg""></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">phase 1 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-1-A.svg""><br><div style=""text-align: center;"">phase 1 data discovery</div></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg""></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">phase 2 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-2-Q.svg""></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg""></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">phase 2 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-2-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">phase 2 data preparation</div></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg""></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">phase 3 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-3-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">phase 3 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-3-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">phase 3 model planning</div></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">phase 4 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-4-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">phase 4 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-4-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">phase 4 model building/execution</div></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">phase 5 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-5-Q.svg""></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">phase 5 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-5-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">phase 5 communicate results</div></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">phase 6 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-6-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">phase 6 is the _____ phase.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""efa5472800164c0cb72408b647e26648-ao-6-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">phase 6 operationalize</div></div>
+  <div id=""io-original""><img src=""tmpo1o0ocu2.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-1-Q.svg""></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg""></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-1-A.svg"">&nbsp;<br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">business user</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg""></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-2-Q.svg""></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg""></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-2-A.svg"">&nbsp;<br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">project sponsor</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg""></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-3-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-3-A.svg"">&nbsp;<br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">project manager</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-4-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-4-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">business intelligence (BI) analyst</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-5-Q.svg""></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg""></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-5-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">database administrators (DBAs)</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg""></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-6-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-6-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">data engineer</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-7-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">project role ______.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""30e9193af13b499cad8100618ada6b4a-ao-7-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">data scientist</div></div>
+  <div id=""io-original""><img src=""tmp7mpupv_u.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-1-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-1-A.svg""><br><br><br><div style=""text-align: center;"">distant past</div></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-2-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-2-A.svg""><br><br><br><br><div style=""text-align: center;"">not so distant past</div></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-3-Q.svg""></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-3-A.svg""><br><br><br><div style=""text-align: center;"">recent past</div></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-4-Q.svg""></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-4-A.svg""><br><div style=""text-align: center;""><br></div><div style=""text-align: center;""><br></div><div style=""text-align: center;"">present</div></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"
+"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-5-Q.svg"" /></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+<div id=""io-footer""></div>
+
+<script>
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"	"
+<div id=""io-header"">Figure 5-6: Data from the past mimics data from the past, present, and future.</div>
+<div id=""io-wrapper"">
+  <div id=""io-overlay""><img src=""f7663682b3df4c4fb3ec279f52f8dde0-ao-5-A.svg""><br><br><br><br><div style=""text-align: center;"">future</div></div>
+  <div id=""io-original""><img src=""tmpjfn53y99.jpg"" /></div>
+</div>
+
+<button id=""io-revl-btn"" onclick=""toggle();"">Toggle Masks</button>
+<div id=""io-extra-wrapper"">
+  <div id=""io-extra"">
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+// Toggle answer mask on clicking the image
+var toggle = function() {
+  var amask = document.getElementById('io-overlay');
+  if (amask.style.display === 'block' || amask.style.display === '')
+    amask.style.display = 'none';
+  else
+    amask.style.display = 'block'
+}
+
+// Prevent original image from loading before mask
+aFade = 50, qFade = 0;
+var mask = document.querySelector('#io-overlay>img');
+function loaded() {
+    var original = document.querySelector('#io-original');
+    original.style.visibility = ""visible"";
+}
+if (mask === null || mask.complete) {
+    loaded();
+} else {
+    mask.addEventListener('load', loaded);
+}
+</script>
+
+"

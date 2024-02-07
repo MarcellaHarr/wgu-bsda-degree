@@ -1,0 +1,200 @@
+#separator:tab
+#html:true
+which role is responsible for project initiation and providing the requirements for a project?	project sponsor
+which job position is primarily responsible for designing and constructing data pipelines within the field of data analytics?	data engineer
+"which role in a data analytics project helps data scientists shape data for analysis?<br><br>&gt; project sponsor
+<br>&gt; data engineer
+<br>&gt; business intelligence analyst
+<br>&gt; database administrator"	data engineer
+"which role in a data analytics project provides expertise for analytical techniques?<br><br>&gt; data engineer
+<br>&gt; business intelligence analyst
+<br>&gt; data scientist
+<br>&gt; database administrator"	data scientist
+"which skills are required by data scientists for converting unstructured data to structured data in data analytics projects?<br><br>&gt; data visualization skills
+<br>&gt; data wrangling skills
+<br>&gt; text mining skills
+<br>&gt; machine learning skills"	data wrangling skills
+which skill must a business intelligence analyst possess to collect and organize data?	data preparation
+"which project-related activity typically takes up the majority of a data analyst's time?<br><br>&gt; Data preparation
+<br>&gt; Data interpretation
+<br>&gt; Conducting A/B testing
+<br>&gt; Building models"	data preparation
+which software do business intelligence analysts use to perform their responsibilities?	microsoft excel
+"what is a skill required of a data engineer?<br><br>&gt; creating data visualizations
+<br>&gt; maintaining databases
+<br>&gt; training machine learning models
+<br>&gt; writing programs that perform data analysis"	maintaining databases
+which group of stakeholders comprises the professionals, such as line managers?	business users
+which stakeholder is primarily responsible for ensuring the desired quality of the project?	project managers
+which stakeholder has access to essential tables or storage systems and guarantees the highest levels of security in the data repository?	database administrator
+"why is it significant to establish failure criteria for a data analytics project in the discovery phase?<br><br>&gt; it ensures that the project team will reach its goals.
+<br>&gt; it helps the team determine when it is best to accept the conclusions.
+<br>&gt; it provides a best-case scenario approach.
+<br>&gt; it guides the team in identifying the main objectives of the project."	it helps the team determine when it is best to accept the conclusions
+which stakeholder extracts and transforms data during the discovery phase?	data engineer
+"a person has been assigned to manage a project to implement a company-wide customer relationship management (CRM) system. the CRM system aims to centralize customer
+details, automate sales processes, and improve customer service.<br><br><b>what skills are crucial for the project team members working on the CRM system implementation?<br></b><br>&gt; data analysis, system integration, and training
+<br>&gt; graphic design, social media marketing, and content creation
+<br>&gt; financial forecasting, budgeting, and cost analysis
+<br>&gt; network troubleshooting, hardware maintenance, and software installation"	data analysis, system integration, and training
+"why is formulating an initial hypothesis an integral part of the discovery phase of the data analytics lifecycle?<br><br>&gt; it guarantees accurate predictions and outcomes from the data.
+<br>&gt; it guides the subsequent data collection, processing, and analysis activities.
+<br>&gt; it guarantees that the final results will support the initial hypothesis.
+<br>&gt; it allows the team to use specific algorithms for analysis."	it guides the subsequent data collection, processing, and analysis activities.
+"who should be included as stakeholders in an analytics project?<br><br>&gt; anyone who will benefit from the project <br>&gt; anyone who has relevant skills
+<br>&gt; anyone who is available to participate <br>&gt; anyone who is a manager in the organization"	anyone who will benefit from the project
+who offers suggestions on ideas to test as the team formulates hypotheses during the discovery phase of a data analytics project?	data scientists
+which activity occurs during the data preparation phase of the data analytics lifecycle?<br><br>&gt; understanding of data<br>&gt; discovery of data<br>&gt; modeling of data<br>&gt; collection of data	understanding of data
+which data visualization is most suitable for understanding the trend and progression of a variable over time in the data preparation phase?	line charts
+"which task is commonly performed to identify and address data quality issues during the data preparation phase?<br><br>&gt; performing data deduplication
+<br>&gt; developing data visualization
+<br>&gt; conducting data profiling
+<br>&gt; executing data integration"	conducting data profiling
+which common data cleaning task is used to address the missing data in a data set?	imputation
+which task is typically performed to handle outliers during the data preparation phase?<br><br>&gt; normalization <br>&gt; truncating extreme values <br>&gt; data transformation <br>&gt; missing data imputation	truncating extreme values
+"a data analyst at a retail company is provided with a large dataset containing sales transactions, customer information, and product details. the analystis tasked with preparing
+the data for analysis and modeling.
+<br><br><b>which activity would the analyst perform during the data preparation phase?<br></b><br>&gt; exploring available data to understand its characteristics and suitability
+<br>&gt; identifying the business problem or research question that needs to be addressed
+<br>&gt; developing initial hypotheses about the relationship between data variables
+<br>&gt; allocating computing resources for the data analysis"	exploring available data to understand its characteristics and suitability
+"which activity is performed during the model planning phase of a data analysis project?<br><br>&gt; building the final predictive model
+<br>&gt; selecting relevant features for modeling
+<br>&gt; generating synthetic data for model training
+<br>&gt; conducting hypothesis testing on the modeling data"	selecting relevant features for modeling
+which programming language is primarily used for statistical analysis and data manipulation in the model planning phase?	R
+which classification model is based on the concept of probability and assigns class labels to instances based on the possibility of belonging to a particular class?	naive bayes
+which tool is used to connect users to relational databases and data warehouse appliances in the model planning phase?	SAS/ACCESS
+which regression model is commonly used for predicting a continuous numerical outcome based on a set of input features?	linear regression
+which phase of the data analytics life cycle involves running analytical software packages on small datasets to test and refine models?	model building/execution phase
+"which step is typically performed after executing the model in the model execution phase?<br><br>&gt; data post-processing
+<br>&gt; model deployment
+<br>&gt; result analysis
+<br>&gt; dataset creation"	result analysis
+which testing procedure is used for evaluating the performance of a model in the data analytics life cycle?	cross-validation
+"What is the role of the SPSS modeler in the model execution phase of the data analytics life cycle?<br><br>&gt; it is used for data collection and cleaning.
+<br>&gt; it is used for data exploration and visualization.
+<br>&gt; it is used for designing model interfaces.
+<br>&gt; it is used for applying the trained model to new data for predictions."	it is used for applying the trained model to new data for predictions.
+"how does the communication of results tie to the operationalize phase of data analytics?<br><br>&gt; it helps identify the relevant data sources.
+<br>&gt; it enables the development of a data model.
+<br>&gt; it implements data-driven insights into business functions.<br>&gt; it ensures the accuracy of the data analysis."	it implements data-driven insights into business functions.
+which data visualization tool in the communicate results phase is used to create web-based visualization?	D3.js
+which measure assesses the validity of a correlation between two variables during the communicate results phase?	p-value
+"which statement is an example of a common pitfall in the communication of model results?<br><br>&gt; overemphasizing simplicity to explain the model
+<br>&gt; providing detailed explanations of model assumptions<br>&gt; focusing only on the accuracy of the model
+<br>&gt; presenting multiple visualizations to illustrate the model"	focusing only on the accuracy of the model
+"what is the purpose of communicating data analytics results to stakeholders?<br><br>&gt; to demonstrate the value and impact of data analytics on business outcomes
+<br>&gt; to share technical details and methodologies used in the analysis
+<br>&gt; to persuade stakeholders to adopt new data analytics tools and techniques
+<br>&gt; to validate the accuracy and reliability of the data used in the analysis"	to demonstrate the value and impact of data analytics on business outcomes
+"a data analyst working for a retail company has a team that analyzes customer purchasing behavior and identifies a segment of high-value customers who have a high propensity
+to churn. now the analyst needs to communicate the results to the customer service departmentto operationalize the insights and reduce customer churn.
+<br><br><b>how does the communication of results tie to the operationalize phase of data analytics?<br></b><br>&gt; by conducting further data analysis and exploration
+<br>&gt; by implementing personalized outreach to customers
+<br>&gt; by refining data collection processes
+<br>&gt; by training customer service representatives"	by implementing personalized outreach to customers
+which phase is the immediate predecessor to the operationalize phase of the data analytics life cycle?	communicate results
+"what is the primary objective ofthe operationalize phase in the data analytics life cycle?<br><br>&gt; collecting and preparing data for analysis
+<br>&gt; developing and refining analytical models
+<br>&gt; implementing and maintaining the analytics solution in a production environment
+<br>&gt; analyzing and interpreting the results of the analytics solution"	implementing and maintaining the analytics solution in a production environment
+"what is the primary responsibility of the business intelligence analyst during the operationalize phase of the data analytics life cycle?<br><br>&gt; to make sure their reports and dashboards are up-to-date
+<br>&gt; to collect data that can be used to train the model
+<br>&gt; to label data that can be used to train the model
+<br>&gt; to gather data that can be used to monitor the model"	to make sure their reports and dashboards are up-to-date
+"a retail company collects data on its sales for the last quarter. the data includes information on the sale of the products sold,the price,the quantity, and the sale location.<br><br>Which type of question can the data analytics project answer based on the available data?<br><br>&gt; how many employees work in the retail company?
+<br>&gt; what are the top-selling products in each location? <br>&gt; what is the average age of customers who purchased products?
+<br>&gt; what is the best time to launch a new product based on customer purchase behavior?"	what are the top-selling products in each location?
+"a business seeks to increase profitability and optimize inventory management. they decide to carry out data analytics research to determine which merchandise is selling quickly
+and which is selling slowly. the research seeks to determine whether there is a relationship between the kind of merchandise and sales velocity.
+<br><br>which data is required to answer the question for the data analytics projectin the scenario?<br><br>&gt; sales data categorized by customer segment
+<br>&gt; sales data categorized by region
+<br>&gt; sales data categorized by time period
+<br>&gt; sales data categorized by product"	sales data categorized by product
+"a healthcare provider aims to improve patient satisfaction and retention. they seek to answer the question, ""what factors are associated with patient satisfaction?""&nbsp;<br><br><b>which data is required to answer this question in the scenario?</b><br><br>&gt; number of healthcare providers
+<br>&gt; financial records of the healthcare provider
+<br>&gt; patient feedback survey results
+<br>&gt; demographic data of the patients"	patient feedback survey results
+"a financial institution is seeking to reduce the risk of fraudulenttransactions. the institution has customer data that includes account information, transaction history,
+demographics, and device usage. the data analytics project aims to answer the question: ""What patterns of behavior suggest a higher risk of fraudulent transactions?”
+<br><br><b>Which data is required to meetthe needs ofthe project and address the risk of fraudulenttransactions?</b><br><br>&gt; transaction time data
+<br>&gt; customer age data
+<br>&gt; customer device usage data
+<br>&gt; account opening date data"	customer device usage data
+"an e-commerce company has collected various types of data abouttheir customers, products, and sales transactions. the available data includes customer demographics, product
+attributes, purchase history, website clickstream data, and customer feedback.
+<br><br><b>which question can be answered using data analytics based on the available data?</b><br><br>&gt; what are the most popular products among customers aged 18–25? <br>&gt; how many sales transactions were made in the last month?
+<br>&gt; what is the total revenue generated by the company since its inception?
+<br>&gt; how many employees does the company have?"	what are the most popular products among customers aged 18–25?
+"a food delivery company would like to study economic conditions' effects on sales. the analystin charge of the projectis planning on gathering economic data from a well-known
+blog.
+<br><br><b>which question should the analyst consider in the scenario?</b><br><br>&gt; is the data correct?
+<br>&gt; is the data formatted appropriately?
+<br>&gt; is the data accessible from an API?
+<br>&gt; is the data exportable?"	is the data correct?
+"a data analystis planning the data preparation phase of a data analysis project. during planning,they consider whatto do ifthe data contains a lot of outliers.
+<br><br><b>which question should the analyst consider in this scenario?</b><br><br>&gt; can the outliers be removed? <br>&gt; can the rest of the data explain the outliers?
+<br>&gt; can the outliers be replaced?
+<br>&gt; what is the impact of the outliers on the analysis?"	what is the impact of the outliers on the analysis?
+"a data analystis working on a project to identify the main reasons for customer complaints and is planning to review the data.
+<br><br><b>which question should the analyst consider in this scenario?</b><br><br>&gt; are all the relevant variables present?
+<br>&gt; do all variables have a known distribution?
+<br>&gt; what is the correlation between variables?
+<br>&gt; what&nbsp;are the independent variables?"	are all the relevant variables present?
+"a data analyst plans to explore possible indicators of fraud in bank transactions. the analystis considering different tools that can be used to collect the data needed.
+<br><br><b>which question should the analyst consider when identifying the tool to use?</b><br><br>&gt; are all relevant variables present?
+<br>&gt; what is the format and structure of the data?
+<br>&gt; what is the research question for the project?
+<br>&gt; what is the timeline for the project?"	what is the format and structure of the data?
+"a company will survey its customers to understand the potential demand for a new product. a data analyst will review the data.
+<br><br>which question should the analysis consider to validate the representativity of the data?<br><br>&gt; what tool is being used to visualize the data?
+<br>&gt; what tool will be used to prepare the data?
+<br>&gt; what tool will be used to analyze the data?
+<br>&gt; what is the response rate for the survey?"	what tool is being used to visualize the data?
+"a retail company wants to improve customer satisfaction by understanding the factors that influence customer loyalty. the company has collected customer feedback data from
+different sources, such as online surveys, social media platforms, and customer support calls.
+<br><br>which data analytic technique should be used to identify the factors influencing customer loyalty based on the collected customer feedback data?<br><br>&gt; clustering analysis
+<br>&gt; regression analysis
+<br>&gt; time series analysis <br>&gt; text analysis"	text analysis
+"A data analyst working for a digital marketing agency wants to analyze customer data to identify factors that are most strongly associated with customer churn. the analyst has
+access to a database of customer information, which includes data such as age, gender, location, income, purchasing behavior, engagement with the agency's services, and
+customer satisfaction ratings. <br><br>which data analytic technique should be used to identify factors that are strongly associated with customer churn for the agency?<br><br>&gt; random forest analysis
+<br>&gt; logistic regression analysis
+<br>&gt; cluster analysis
+<br>&gt; naive Bayes analysis"	logistic regression analysis (logistic regression is a suitable technique for analyzing factors associated with binary outcomes, such as customer churn (churn or not churn). it is commonly used in situations where the dependent variable is categorical, making it appropriate for predicting and understanding the likelihood of an event, like customer churn, based on various independent variables.)
+"a car manufacturing company is looking to improve its production by analyzing how factors such as temperature, humidity, and machine performance affect production efficiency. to identify the key factor that affects efficiency the most, an analyst uses the regression analysis technique.
+<br><br>what justifies the use of regression analysis for the given task?<br><br>&gt; regression analysis is used to analyze the content of text data.
+<br>&gt; regression analysis is used to group data points together based on similarity.
+<br>&gt; regression analysis is used to analyze the relationship between one or more independent variables and a dependent
+variable.
+<br>&gt; regression analysis is used to analyze data collected over time to identify trends and patterns."	regression analysis is used to analyze the relationship between one or more independent variables and a dependent variable.
+"a clothing store has been tracking its sales data for the first five months of the year. they have collected data on the number of items sold, the average price per item, and the total
+revenue generated each month. they are required to analyze their sales data to identify any trends or patterns and improve their sales strategy. Here is a sample data table:
+<br><br><div><img src=""number-57_table.jpeg""></div><br>which data analytic technique would be most appropriate to identify any trends or patterns in the clothing store's sales data?<br><br>&gt; regression analysis
+<br>&gt; cluster analysis
+<br>&gt; time series analysis
+<br>&gt; factor analysis<br>"	time series analysis
+"a data analyst working for a retail company analyzes the purchasing behavior of customers to identify patterns and recommend products.
+<br><br><b>which data analytic technique is most appropriate for analyzing the transaction data?</b><br><br>&gt; time series analysis
+<br>&gt; association rules analysis
+<br>&gt; text analysis
+<br>&gt; clustering analysis"	association rules analysis
+"an energy company wants to predict future energy demand to optimize production. The company has an
+extensive data set on historical energy usage.
+<br><br>which data analytic technique is best suited for this scenario?<br><br>&gt; time series
+<br>&gt; principal component analysis
+<br>&gt; multiple regression
+<br>&gt; logistic regression"	time series
+"a pharmaceutical company wants to understand if a new drug reduces fevers. the data suggest a fever reduction when using the drug. the company's data analysts study the data
+to determine whether the effect observed could have occurred by chance.
+<br><br>which data analytic calculation should the analysts perform?<br><br>&gt; the mean temperature
+<br>&gt; the standard deviation of the temperature
+<br>&gt; the coefficient of determination
+<br>&gt; the p-value"	the p-value
+"a pivot table is created using R programming representing 12 categories of food or grocery items with the corresponding unit sales and revenue generated over the last year. the
+scatterplot between the unit sale and revenue earned is sum_unit and sum_dollars, respectively.
+<br><br>Scatterplot:<br><br><img src=""paste-2cc0082e441aad3ad5c7ce4133d7c78ad9578690.jpg""><br><br>which data analytics techniques will be impactful based on the scatterplot?<br><br>&gt; linear regression model
+<br>&gt; nonlinear regression model
+<br>&gt; multiple regression model
+<br>&gt; logistic regression model"	linear regression model
