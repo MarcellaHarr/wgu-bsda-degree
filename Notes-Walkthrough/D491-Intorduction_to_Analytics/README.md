@@ -2,7 +2,7 @@
 
 This course doesn't have much to elaborate on. Once you're enrolled, visit the course page. On the right side, below your course instructor's profile, you'll find a tab labeled 'Course Tips' with a link to the resources directory, highlighted in blue. Just click on it.
 
-[![Placeholder](link_to_gif_placeholder)](link_to_gif_placeholder)
+![WGU course tip section](../../img/D491_Course_Tips.gif)
 
 <br>
 
