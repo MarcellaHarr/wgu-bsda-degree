@@ -3,9 +3,9 @@
 > *Analytics is the creative use of data and statistical modeling to tell a compelling story that not only drives strategic action but also results in business value. Introduction to Analytics examines data analytics as a discipline and the various roles and functions within the field. It expands your knowledge of analytics and helps you develop a basic understanding of statistics, analysis, problem-solving, and programming concepts.* 
 > __-WGU__
 
-I thoroughly engaged with the course materials, including all sections, three external course books, and both internal and external videos. Additionally, I completed quizzes for each section and attempted the pre-assessment (PA) three times, passing once and failing twice. Utilizing the study guide provided in the course's resources directory proved beneficial. Personally, I found the pre-assessment (PA) easier compared to the objective assessment (OA).
+I thoroughly engaged with the course materials, including all sections, three external course books, and both internal and external videos. Additionally, I completed quizzes for each section and attempted the pre-assessment (PrA) three times, passing once and failing twice. Utilizing the study guide provided in the course's resources directory proved beneficial. Personally, I found the pre-assessment (PrA) easier compared to the objective assessment (OA).
 
-During my study sessions, I devoted significant attention to the *Data Analytics Lifecycle* section, which comprises the majority of the assessment. Below is the outline of sections per the PA and an additional section from the study guide:
+During my study sessions, I devoted significant attention to the *Data Analytics Lifecycle* section, which comprises the majority of the assessment. Below is the outline of sections per the PrA and an additional section from the study guide:
 
 ### Section 1
 #### Careers and Roles in Data Analytics - 20% of assessment
