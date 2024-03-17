@@ -15,7 +15,7 @@ __I successfully completed this course on February 21st, 2024!__
 
 This course was quite straightforward in terms of understanding the concepts. However, I faced some challenges with the workflow and technology needed for it. My advice would be to download Excel from the Microsoft 365 dashboard provided by WGU. One major issue was that while using the Excel online version for quizzes and tests, it would log me out within 15 minutes, losing all my progress.
 
-I wasn't alone in facing this problem, as others also complained about it in the course chat. The pre-assessment (PrA) was very similar to the objective assessment (OA). Though the tasks and questions were different, they followed the same procedures. For instance, one task required filling a series by 50 instead of the usual one in the PrA. Despite this, I continued studying my Anki decks and taking notes, although only two questions actually asked for definitions of terms or vocabulary. Studying the Anki decks helped me understand the main functions and meanings of specific terms.
+I wasn't alone in facing this problem, as others also complained about it in the course chat. The pre-assessment (PrA) was very similar to the objective assessment (OA). Though the tasks and questions were different, they followed the same procedures. For instance, one task required filling a series by 50 instead of the usual one in the PrA. Despite this, I continued studying my Anki decks and taking notes, although only two questions actually asked for definitions of terms or vocabulary. Studying the [Anki decks]() helped me understand the main functions and meanings of specific terms.
 
 Unfortunately, I couldn't use the PrA as a study guide because the Coaching Report didn't show the correct answers to the sections I got wrong. I could only see the incorrect responses and had to make educated guesses on how to answer correctly. Luckily, I only had to do this twice, and both times, I passed the PrA.
 <br>
@@ -25,8 +25,8 @@ Unfortunately, I couldn't use the PrA as a study guide because the Coaching Repo
 
 Introduction and Device Setup
 <br>
-Section 1: [Performs Common Spreadsheet Tasks]()
+Section 1: [Performs Common Spreadsheet Tasks](../../Notes-Walkthrough/D388-Fundamentals_of_Spreadsheets_and_Data_Presentations/D388_Lesson-1_Business_and_Industry_Use.pdf)
 <br>
-Section 2: [Prepares Data for Analysis]()
+Section 2: [Prepares Data for Analysis](../../Notes-Walkthrough/D388-Fundamentals_of_Spreadsheets_and_Data_Presentations/D388_Lesson-2_Performs_Common_Spreadsheet_Tasks.pdf)
 <br>
-Section 3: [Creates Presentations from Spreadsheet Datasets]()
+Section 3: [Creates Presentations from Spreadsheet Datasets](../../Notes-Walkthrough/D388-Fundamentals_of_Spreadsheets_and_Data_Presentations/D388_Lesson-3_Creates_Presentations_from_Spreadsheet_Datasets.pdf)
