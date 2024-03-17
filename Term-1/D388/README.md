@@ -7,7 +7,7 @@
 <br>
 <br>
 
-__I successfully completed this course on February 7th, 2024!__
+__I successfully completed this course on February 21st, 2024!__
 <br>
 <br>
 
