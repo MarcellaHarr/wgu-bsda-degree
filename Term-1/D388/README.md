@@ -11,6 +11,8 @@ __I successfully completed this course on February 7th, 2024!__
 <br>
 <br>
 
+![D388 cover picture](../../img/D388_Cover.PNG)
+
 This course was quite straightforward in terms of understanding the concepts. However, I faced some challenges with the workflow and technology needed for it. My advice would be to download Excel from the Microsoft 365 dashboard provided by WGU. One major issue was that while using the Excel online version for quizzes and tests, it would log me out within 15 minutes, losing all my progress.
 
 I wasn't alone in facing this problem, as others also complained about it in the course chat. The pre-assessment (PrA) was very similar to the objective assessment (OA). Though the tasks and questions were different, they followed the same procedures. For instance, one task required filling a series by 50 instead of the usual one in the PrA. Despite this, I continued studying my Anki decks and taking notes, although only two questions actually asked for definitions of terms or vocabulary. Studying the Anki decks helped me understand the main functions and meanings of specific terms.
