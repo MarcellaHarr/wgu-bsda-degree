@@ -16,6 +16,6 @@ An added benefit of this course is that upon passing, you'll receive a voucher f
 
 <br>
 
-![Tommy Boy Passed GIF from Tenor.com](https://tenor.com/view/tommy-boy-passed-omg-gif-7235732.gif) on March 15th, 2024.
+![Tommy Boy Passed GIF from Tenor.com](../../img/C721-TommyBoy.gif) on March 15th, 2024.
 <br>
 <br>
