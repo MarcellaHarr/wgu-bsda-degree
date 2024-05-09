@@ -1,0 +1,716 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+r(HO]`)_?/	wguD333Terms	WGU BSDA::D333-Terms	"when an organization decides to accept
+a risk because the cost of avoiding the
+risk outweighs the potential loss of the
+risk. a decision to accept a risk can
+be extremely difficult and controversial
+when dealing with safety-critical systems
+because making that determination involves forming personal judgments about
+the value of human life, assessing potential liability in case of an accident, evaluating the potential impact on the surrounding natural environment, and estimating the system's costs and benefits."	acceptance	D333::Terms
+tBz<+@lvL(	wguD333Terms	WGU BSDA::D333-Terms	under this type of software development methodology in which a system is developed in iterations lasting from one to four weeks. unlike the waterfall system development model, this type of development accepts the fact that system requirements are evolving and cannot be fully understood or defined at the start of the project.	agile development	D333::Terms
+"Jc$-J?+#@F"	wguD333Terms	WGU BSDA::D333-Terms	"a wide-ranging act that authorized $787
+billion in spending and tax cuts over
+a 10-year period and included strong
+privacy provisions for electronic health
+records, such as banning the sale of
+health information, promoting the use of
+audit trails and encryption, and providing
+rights of access for patients."	american recovery and reinvestment act	D333::Terms
+"Q%q+1[.#0|"	wguD333Terms	WGU BSDA::D333-Terms	"the expression of opinions by people
+who do not reveal their identity."	anonymous expression	D333::Terms
+m(uyUIS8u`	wguD333Terms	WGU BSDA::D333-Terms	"a service that allows anonymity on the
+Internet by using a computer program
+that strips the originating header and/or
+IP address from the message and then
+forwards the message to its intended recipient."	anonymous remailer service	D333::Terms
+bM<AaD{U7T	wguD333Terms	WGU BSDA::D333-Terms	"laws designed to reduce frivolous
+SLAPPs (strategic lawsuit against public
+participation (SLAPP), which is a lawsuit filed by corporations, government officials, and others against citizens and
+community groups who oppose them on
+matters of concern)."	anti-SLAPP laws	D333::Terms
+D0`RsrQ9l9	wguD333Terms	WGU BSDA::D333-Terms	"software that scans for a specific sequence of bytes, known as a virus signature, that indicates the presence of a
+specific virus."	antivirus software	D333::Terms
+c$1(X?~5`N	wguD333Terms	WGU BSDA::D333-Terms	this includes the people, procedures, hardware, software, data, and knowledge needed to develop computer systems and machines that can simulate human intelligence processes, including learning <i>(the acquisition of information and rules for using the information)</i>, reasoning <i>(using rules to reach conclusions)</i>, and self-correction <i>(using the outcome from one scenario to improve its performance on future scenarios)</i>.	artificial intelligence systems	D333::Terms
+qt3&qlXbt.	wguD333Terms	WGU BSDA::D333-Terms	"a group that provides assistance to the
+board of directors in fulfilling its responsibilities with respect to the oversight of the
+quality and integrity of the organization's
+accounting and reporting practices and
+controls, including financial statements
+and reports; the organization's compliance with legal and regulatory requirements; the qualifications, independence,
+and performance of the company's independent auditor; and the performance of
+the company's internal audit team."	audit committee	D333::Terms
+cN}l(_kS_K	wguD333Terms	WGU BSDA::D333-Terms	"the elimination of a vulnerability that
+gives rise to a particular risk in order to
+avoid the risk altogether. this is the most
+effective solution but often not possible&nbsp;due to organizational requirements and
+factors beyond an organization's control."	avoidance	D333::Terms
+CvUlE_}=Dv	wguD333Terms	WGU BSDA::D333-Terms	"the moral corruption of people in power,
+which is often facilitated by a tendency for
+people to look the other way when their
+leaders act inappropriately."	bathsheba syndrome	D333::Terms
+k]aXgEwJ!=	wguD333Terms	WGU BSDA::D333-Terms	"a method or technique that has consistently shown results superior to those
+achieved with other means and that is
+used as a benchmark within a particular
+industry."	best practice	D333::Terms
+JVU~lN~Xl9	wguD333Terms	WGU BSDA::D333-Terms	"the first 10 amendments to the United
+States Constitution that spell out additional rights of individuals."	bill of rights	D333::Terms
+so$7uPq)_h	wguD333Terms	WGU BSDA::D333-Terms	"a type of dynamic testing that involves
+viewing the software unit as a device
+that has expected input and output behaviors but whose internal workings are
+unknown."	black-box testing	D333::Terms
+FK=tpDO)H~	wguD333Terms	WGU BSDA::D333-Terms	"a sophisticated threat that combines the
+features of a virus, worm, Trojan horse,
+and other malicious code into a single
+payload."	blended threat	D333::Terms
+"q6A#NoAp@#"	wguD333Terms	WGU BSDA::D333-Terms	"an agreed-upon sets of skills and abilities
+that all licensed professionals must possess."	body of knowledge	D333::Terms
+Fv)fM=s]VU	wguD333Terms	WGU BSDA::D333-Terms	"a large group of computers, which are
+controlled from one or more remote locations by hackers, without the knowledge
+or consent of their owners."	botnet	D333::Terms
+D}O[:sT:|{	wguD333Terms	WGU BSDA::D333-Terms	"the failure of one party to meet the terms
+of a contract."	breach of contract	D333::Terms
+Fy@3NeTT_M	wguD333Terms	WGU BSDA::D333-Terms	"the failure to act as a reasonable person
+would act."	breach of the duty of care	D333::Terms
+NfpZPh,gRr	wguD333Terms	WGU BSDA::D333-Terms	"when a product fails to meet the terms of
+its warranty."	breach of warranty	D333::Terms
+k[f](5KEEd	wguD333Terms	WGU BSDA::D333-Terms	"the act of providing money, property, or
+favors to someone in business or government in order to obtain a business
+advantage."	bribery	D333::Terms
+FD&KP$zQCG	wguD333Terms	WGU BSDA::D333-Terms	"a risk-based strategy that includes an
+occupant emergency evacuation plan, a
+continuity of operations plan, and an incident management plan with an active
+governance process to minimize the potential impact of any security incident and
+to ensure business continuity in the event
+of a cyberattack or some form of disaster."	business continuity plan	D333::Terms
+m%[kEs4yPo	wguD333Terms	WGU BSDA::D333-Terms	"a set of interrelated components—including hardware, software, databases,
+networks, people, and procedures—that
+collects and processes data and disseminates the output."	business information system	D333::Terms
+tV~-)v=@:?	wguD333Terms	WGU BSDA::D333-Terms	"indicates that a professional possesses
+a particular set of skills, knowledge, or
+abilities, in the opinion of the certifying
+organization. These can also apply
+to products (e.g., the Wi-Fi CERTIFIED
+logo assures that the product has met
+rigorous interoperability testing to ensure
+that it will work with other Wi-Fi-certified
+products) and is generally voluntary."	certification	D333::Terms
+CL{r/1x?cY	wguD333Terms	WGU BSDA::D333-Terms	"a statement that highlights an organization's key ethical issues and identifies the
+overarching values and principles that
+are important to the organization and its
+decision making."	code of ethics	D333::Terms
+elu%<!$OOH	wguD333Terms	WGU BSDA::D333-Terms	"an employment situation in which two employers have actual or potential legal
+rights and duties with respect to the same
+employee or group of employees."	coemployment relationship	D333::Terms
+dmnm99GDO9	wguD333Terms	WGU BSDA::D333-Terms	"to be in accordance with established
+policies, guidelines, specifications, or
+legislation."	compliance	D333::Terms
+"c4^_T#:?}R"	wguD333Terms	WGU BSDA::D333-Terms	"a discipline that combines elements of
+law and computer science to identify, collect, examine, and preserve data from
+computer systems, networks, and storage devices in a manner that preserves
+the integrity of the data gathered so that
+it is admissible as evidence in a court of
+law."	computer forensics	D333::Terms
+qKh|Sy}0c@	wguD333Terms	WGU BSDA::D333-Terms	a conflict between a person's (or firm's) self-interest and the interests of a client.	conflict of interest (COI)	D333::Terms
+tvWE!S~tnH	wguD333Terms	WGU BSDA::D333-Terms	"a job situation in which an individual does
+not have an explicit or implicit contract for
+long-term employment."	contingent work	D333::Terms
+OEW8fB?0FN	wguD333Terms	WGU BSDA::D333-Terms	when the plaintiffs' own actions contributed to their injuries.	contributory negligence	D333::Terms
+QE[}tJudO,	wguD333Terms	WGU BSDA::D333-Terms	"text files that can be downloaded to the
+hard drives of users who visit a website,
+so that the website is able to identify visitors on subsequent visits."	cookie	D333::Terms
+sKhDlOmPlr	wguD333Terms	WGU BSDA::D333-Terms	"the exclusive right to distribute, display,
+perform, or reproduce an original work
+in copies or to prepare derivative works
+based on the work; granted to creators of
+original works of authorship."	copyright	D333::Terms
+s@K$B:_UG1	wguD333Terms	WGU BSDA::D333-Terms	"a violation of the rights secured by the
+owner of a copyright; occurs when someone copies a substantial and material
+part of another's copyrighted work without permission."	copyright infringement	D333::Terms
+l.l:fT!r+v	wguD333Terms	WGU BSDA::D333-Terms	aka corporate ethics officer; a senior-level manager who provides an organization with vision and leadership in the area of business conduct.	corporate compliance officer	D333::Terms
+eaGI.q<zmO	wguD333Terms	WGU BSDA::D333-Terms	a senior-level manager who provides an organization with vision and leadership in the area of business conduct.	corporate ethics officer or corporate compliance officer	D333::Terms
+Jgqhw|I@jW	wguD333Terms	WGU BSDA::D333-Terms	"any form of mistreatment or lack of care,
+both physical and mental, based on the
+use of an electronic communications device that causes harm and distress to
+others."	cyberabuse	D333::Terms
+JP9(8sg9mN	wguD333Terms	WGU BSDA::D333-Terms	"the deployment of malware that secretly steals data in the computer systems
+of organizations, such as government
+agencies, military contractors, political
+organizations, and manufacturing firms."	cyberespionage	D333::Terms leech
+Kshh?/5?8B	wguD333Terms	WGU BSDA::D333-Terms	"a form of cyberabuse in which the abusive behavior, which involves the use of
+an electronic communications device, is
+degrading, humiliating, hurtful, insulting,
+intimidating, malicious, or otherwise offensive to an individual or group of individuals causing substantial emotional
+distress."	cyberharassment	D333::Terms
+hYbU?PHO>4	wguD333Terms	WGU BSDA::D333-Terms	"using the Internet for purposes unrelated
+to work such as posting to Facebook,
+sending personal emails or Instant messages, or shopping online."	cyberloafing	D333::Terms
+p[dxhl$XI3	wguD333Terms	WGU BSDA::D333-Terms	"a person or company that registers domain names for famous trademarks or
+company names to which they have no
+connection, with the hope that the trademark's owner will buy the domain name
+for a large sum of money."	cybersquatter	D333::Terms
+Mwa.Jp45$S	wguD333Terms	WGU BSDA::D333-Terms	"threatening behavior or unwanted advances directed at an adult using the Internet or other forms of online and electronic communications; the adult version
+of cyberbullying"	cyberstalking	D333::Terms
+Jj2&ulQhC5	wguD333Terms	WGU BSDA::D333-Terms	"the intimidation of government or civilian
+population by using information technology to disable critical national infrastructure (e.g., energy, transportation, financial, law enforcement, and emergency response) to achieve political, religious, or
+ideological goals."	cyberterrorism	D333::Terms
+M3%{`L0EGk	wguD333Terms	WGU BSDA::D333-Terms	"making either an oral or a written statement of alleged fact that is false and that
+harms another person."	defamation	D333::Terms
+hSz~[mJ:-,	wguD333Terms	WGU BSDA::D333-Terms	"products created during various stages
+of the development process, including
+statements of requirements, flowcharts,
+and user documentation."	deliverable	D333::Terms
+I-z8(:rhd%	wguD333Terms	WGU BSDA::D333-Terms	"a type of patent that permits its owner
+to exclude others from making, using, or
+selling the design in question."	design patent	D333::Terms
+y~+zJ32qdT	wguD333Terms	WGU BSDA::D333-Terms	"a documented process for recovering an
+organization's business information system assets—including hardware, software, data, networks, and facilities—in
+the event of a disaster."	disaster recovery plan	D333::Terms
+wE*I0u^fwc	wguD333Terms	WGU BSDA::D333-Terms	"doing research on the Internet to obtain someone's private personal information—such as home address, email
+address, phone numbers, and place of
+employment—and even private electronic documents, such as photographs, and
+then posting that information online without permission."	doxing	D333::Terms
+nPX[%&U:,g	wguD333Terms	WGU BSDA::D333-Terms	"the obligation to protect people against
+any unreasonable harm or risk."	duty of care	D333::Terms
+ci_U1AiVIA	wguD333Terms	WGU BSDA::D333-Terms	"a QA process that tests the code for a
+completed unit of software by actually
+entering test data and comparing the results to the expected results."	dynamic testing	D333::Terms
+d!LlO&`CP{	wguD333Terms	WGU BSDA::D333-Terms	"media exposure an organization gets
+through press and social media mentions, positive online ratings, reviews,
+tweets and retweets, reposts (or
+""shares""), recommendations, and so on."	earned media	D333::Terms
+"I!.#!~yFpT"	wguD333Terms	WGU BSDA::D333-Terms	"a business arrangement in which an organization (called the subscribing firm)
+transfers all or part of its workforce to another firm (called the leasing firm), which
+handles all human resource-related activities and costs, such as payroll, training, and the administration of employee benefits. the subscribing firm leases these workers to an organization, but
+they remain employees of the firm."	employee leasing	D333::Terms
+eO}d@3e]@v	wguD333Terms	WGU BSDA::D333-Terms	"the process of scrambling messages or
+data in such a way that only authorized
+parties can read it."	encryption	D333::Terms
+C;8N?]KrjD	wguD333Terms	WGU BSDA::D333-Terms	"a value that is applied (using an algorithm) to a set of unencrypted text (plaintext) to produce encrypted text that appears as a series of seemingly random
+characters (ciphertext) that is unreadable
+by those without this specific key needed, to decipher it."	encryption key	D333::Terms
+r=J37J<M@^	wguD333Terms	WGU BSDA::D333-Terms	"a code of behavior that is defined by the
+group to which an individual belongs."	ethics	D333::Terms
+lpN:a^*?Ol	wguD333Terms	WGU BSDA::D333-Terms	"a directive that requires any company doing business within the borders of
+the countries comprising the european union (EU) to implement a set of privacy
+directives on the fair and appropriate use
+of information."	european union data protection directive	D333::Terms
+hCjcx_tERK	wguD333Terms	WGU BSDA::D333-Terms	"an attack on an information system that
+takes advantage of a particular system
+vulnerability."	exploit	D333::Terms
+m,Nm[V(GgI	wguD333Terms	WGU BSDA::D333-Terms	"a description of how a product or process
+could fail to perform the desired functions
+described by the customer."	failure mode	D333::Terms
+BuQoL:6-lv	wguD333Terms	WGU BSDA::D333-Terms	"an amendment to the Fair Credit Reporting Act passed in 2003 that allows consumers to request and obtain a free credit
+report once each year from each of the
+three primary consumer credit reporting
+companies (Equifax, Experian, and TransUnion)."	fair and accurate credit transactions act	D333::Terms
+"d#.@T`>zKv"	wguD333Terms	WGU BSDA::D333-Terms	"an act that regulates the operations of
+credit-reporting bureaus, including how
+they collect, store, and use credit information."	fair credit reporting act	D333::Terms
+yIVB=,t5@n	wguD333Terms	WGU BSDA::D333-Terms	"a term for a set of guidelines that govern
+the collection and use of personal data."	fair information practices	D333::Terms leech
+fI=5nP)eG	wguD333Terms	WGU BSDA::D333-Terms	"a legal doctrine that allows portions of
+copyrighted materials to be used without
+permission under certain circumstances. title 17, section 107, of the U.S. Code
+established the following four factors that
+courts should consider when deciding
+whether a particular use of copyrighted
+property is fair and can be allowed without penalty: (1) the purpose and character of the use (such as commercial use or
+nonprofit, educational purposes), (2) the
+nature of the copyrighted work, (3) the
+portion of the copyrighted work used in
+relation to the work as a whole, and (4)
+the effect of the use on the value of the
+copyrighted work."	fair use doctrine	D333::Terms
+edQ{U5kD6l	wguD333Terms	WGU BSDA::D333-Terms	"a law enacted during the U.S. Civil War
+to combat fraud by companies that sold
+supplies to the union army; also known
+as the lincoln law. See also qui tam."	false claims act	D333::Terms
+jWo=2`g/z]	wguD333Terms	WGU BSDA::D333-Terms	hardware or software (or a combination of both) that serves as the first line of defense between an organization's network and the Internet; this defense also limits access to the company's network based on the organization's Internet-usage policy.	firewall	D333::Terms
+t[4%IZlK=f	wguD333Terms	WGU BSDA::D333-Terms	"this amendment in the U.S. Constitution that protects Americans' rights to
+freedom of religion, freedom of expression, and freedom to assemble peaceably."	first amendment	D333::Terms
+Qt9SA($[sF	wguD333Terms	WGU BSDA::D333-Terms	"information relating to the capabilities, intentions, or activities of foreign governments or agents of foreign governments
+or foreign organizations."	foreign intelligence	D333::Terms
+P@-o9x[]M_	wguD333Terms	WGU BSDA::D333-Terms	"an amendment to the United States Constitution that protects citizens from unreasonable government searches and is
+often invoked to protect the privacy of
+government employees."	fourth amendment	D333::Terms
+GlR?]taf`@	wguD333Terms	WGU BSDA::D333-Terms	"the crime of obtaining goods, services,
+or property through deception or trickery."	fraud	D333::Terms
+p|>BU)__zW	wguD333Terms	WGU BSDA::D333-Terms	a work environment in which temporary positions are common and organizations contract with independent workers for short-term engagements.	gig economy	D333::Terms
+k5oUQCV}/;	wguD333Terms	WGU BSDA::D333-Terms	a government-issued permission to engage in an activity or to operate a business.	government license	D333::Terms
+iz)n$w7dMM	wguD333Terms	WGU BSDA::D333-Terms	"efforts directed toward the efficient design, manufacture, operation, and disposal of IT-related products, including
+personal computers, laptops, servers,
+printers, and printer supplies."	green computing	D333::Terms
+w[;>a}Pg]H	wguD333Terms	WGU BSDA::D333-Terms	"a temporary work visa granted by the
+U.S. Citizenship and Immigration Services (USGIS) for people who work in
+specialty occupations—jobs that require
+a four-year bachelor's degree in a specific field, or equivalent experience."	H-1B visa	D333::Terms
+G-/66[7ei7	wguD333Terms	WGU BSDA::D333-Terms	"persistent or malicious harassment
+aimed at a specific person that can be
+prosecuted under the law."	hate speech	D333::Terms
+dgg+MS%x~A	wguD333Terms	WGU BSDA::D333-Terms	"a logging and monitoring system used by
+safety engineers to track hazards from a
+project's start to its finish."	hazard log	D333::Terms
+D]yj6ejiRx	wguD333Terms	WGU BSDA::D333-Terms	"systems that are easy to learn and use
+because they perform quickly and efficiently; they meet their users' needs; and
+they operate safely and reliably so that
+system downtime is kept to a minimum."	high-quality software system	D333::Terms
+iS.vd0:.FM	wguD333Terms	WGU BSDA::D333-Terms	"the theft of personal information, which
+is then used without the owner's permission."	identity theft	D333::Terms
+ysrxB-wU}f	wguD333Terms	WGU BSDA::D333-Terms	"an individual who provides services to
+another individual or organization according to terms defined in a written contract or within a verbal agreement."	independent contractor	D333::Terms
+Eh_TfG!)8|	wguD333Terms	WGU BSDA::D333-Terms	the use of illegal means to obtain business information not available to the general public.	industrial espionage	D333::Terms
+"I[ZulrRZj#"	wguD333Terms	WGU BSDA::D333-Terms	the combination of communications privacy and data privacy.	information privacy	D333::Terms
+E~R3bC**?U	wguD333Terms	WGU BSDA::D333-Terms	"software testing done after successful
+unit testing, where the software units are
+combined into an integrated subsystem
+that undergoes rigorous testing to ensure
+that the linkages among the various subsystems work successfully."	integration testing	D333::Terms
+s[{9v|y8*s	wguD333Terms	WGU BSDA::D333-Terms	adherence to a personal code of principles.	integrity	D333::Terms
+yfJ6SzG!Y[	wguD333Terms	WGU BSDA::D333-Terms	works of the mind—such as art, books, films, formulas, inventions, music, and processes—that are distinct and owned or created by a single person or group. it is protected through copyright, patent, trade secret, and trademark laws.	intellectual property (IP)	D333::Terms
+cf!=tF^5G[	wguD333Terms	WGU BSDA::D333-Terms	"the process established by an organization's board of directors, managers, and
+IT systems people to provide reasonable
+assurance for the effectiveness and efficiency of operations, the reliability of
+financial reporting, and compliance with
+applicable laws and regulations."	internal control	D333::Terms leech
+N+qL`bgyQK	wguD333Terms	WGU BSDA::D333-Terms	"the control or suppression of the publishing or accessing of information on the
+Internet."	internet censorship	D333::Terms
+Bu,O7euy?$	wguD333Terms	WGU BSDA::D333-Terms	software that can be used to block access to certain websites that contain material deemed inappropriate or offensive.	internet filter	D333::Terms
+p,hmpeI;fx	wguD333Terms	WGU BSDA::D333-Terms	"a type of lawsuit that organizations may
+file in order to gain subpoena power in
+an effort to learn the identity of anonymous Internet users who they believe
+have caused some form of harm to the
+organization through their postings."	john doe lawsuit	D333::Terms
+p62k`qM>}b	wguD333Terms	WGU BSDA::D333-Terms	"a measure of economic performance
+that compares the amount of goods and
+services produced (output) with the number of labor hours used in producing
+those goods and services."	labor productivity	D333::Terms
+y<<e827,H/	wguD333Terms	WGU BSDA::D333-Terms	"a system of rules that tells us what we
+can and cannot do."	law	D333::Terms
+xlkTZ)T[EP	wguD333Terms	WGU BSDA::D333-Terms	a written defamatory statement.	libel	D333::Terms
+g@6nMq|E(3	wguD333Terms	WGU BSDA::D333-Terms	"instructions sent by organizations to inform its employees (or employees of the
+opposing party) to save relevant data and
+to suspend data that might be due to be
+destroyed based on normal data-retention rules."	litigation hold notice	D333::Terms
+xZGJAfW6XP	wguD333Terms	WGU BSDA::D333-Terms	"a form of telemedicine in which patients
+and healthcare providers are present at
+different sites at the same time; often
+involves a videoconference link between
+the two sites."	live telemedicine	D333::Terms
+F)5[!G%Yzv	wguD333Terms	WGU BSDA::D333-Terms	"a type of trojan horse malware that executes when it is triggered by a specific
+event or at a predetermined time."	logic bomb	D333::Terms
+H(|y7X`ns@	wguD333Terms	WGU BSDA::D333-Terms	"a type of artificial intelligence (AI), involves computer programs that can learn
+some task and improve their performance with experience."	machine learning	D333::Terms
+j]Briaq>~]	wguD333Terms	WGU BSDA::D333-Terms	"the failure of one party to perform certain
+expressed or implied obligations, which
+impairs or destroys the essence of the
+contract."	material breach of contract	D333::Terms
+zdag0_qL{u	wguD333Terms	WGU BSDA::D333-Terms	the misstatement or incomplete statement of a material fact.	misrepresentation	D333::Terms
+"ot/#yC!]2Z"	wguD333Terms	WGU BSDA::D333-Terms	"business processes that are more pivotal
+to continued operations and goal attainment than others."	mission-critical process	D333::Terms leech
+z~98E-=R*h	wguD333Terms	WGU BSDA::D333-Terms	"the reduction in either the likelihood or
+the impact of the occurrence of a risk."	mitigation	D333::Terms leech
+z+?eZ$-Ek)	wguD333Terms	WGU BSDA::D333-Terms	"the personal principles upon which an
+individual bases his or her decisions
+about what is right and what is wrong."	morals	D333::Terms
+IFG_b6+Ch-	wguD333Terms	WGU BSDA::D333-Terms	"an aspect of artificial intelligence that
+involves technology that allows computers to understand, analyze, manipulate,
+and/or generate ""natural"" languages,
+such as English."	natural language processing	D333::Terms
+bZLsi5/<<^	wguD333Terms	WGU BSDA::D333-Terms	"not doing something that a reasonable
+person would do or doing something that
+a reasonable person would not do."	negligence	D333::Terms
+Qf~k7<v0uN	wguD333Terms	WGU BSDA::D333-Terms	"terms of an employment contract that
+prohibit an employee from working for
+any competitors for a specified period of
+time, often one to two years."	noncompete agreement	D333::Terms
+cn|M+[,ngc	wguD333Terms	WGU BSDA::D333-Terms	"terms of an employment contract that
+prohibit an employee from revealing secrets."	nondisclosure clauses	D333::Terms
+8f*N%?fP)	wguD333Terms	WGU BSDA::D333-Terms	"An approach to minimizing the impact of
+software errors by independently implementing the same set of user requirements N times (where N could be 2, 3,
+4 or more); their software are run in parallel; and, if a difference is&nbsp;found, a ""voting algorithm"" is executed to
+determine which result to use."	n-version programming	D333::Terms
+Fr)fX*@mS7	wguD333Terms	WGU BSDA::D333-Terms	"a form of outsourcing in which services
+are provided by an organization whose
+employees are in a foreign country."	offshore outsourcing	D333::Terms
+y+EnC,5k&S	wguD333Terms	WGU BSDA::D333-Terms	"any program whose source code is made
+available for use or modification, as users
+or other developers see fit."	open source code	D333::Terms
+zVS*3Lla{t	wguD333Terms	WGU BSDA::D333-Terms	"to give an organization the right to share
+personal data, such as annual earnings,
+net worth, employers, personal investment information, loan amounts, and Social Security numbers, to other organizations."	opt in	D333::Terms
+f$1(><Cp9|	wguD333Terms	WGU BSDA::D333-Terms	"to refuse to give an organization the right
+to collect and share personal data with
+unaffiliated parties."	opt out	D333::Terms
+"#G^:WrL+K"	wguD333Terms	WGU BSDA::D333-Terms	"a form of marketing that employs tools
+provided by or tailored for a particular
+social media platform to build a social
+community and interact with it by sharing posts and responding to customer
+comments on the organization's blog and
+social media accounts."	organic media marketing	D333::Terms
+GV$`V&G@pe	wguD333Terms	WGU BSDA::D333-Terms	"a long-term business arrangement in
+which a company contracts for services
+with an outside organization that has expertise in providing a specific function."	outsourcing	D333::Terms
+cdq%w9:1)O	wguD333Terms	WGU BSDA::D333-Terms	"a form of marketing that involves paying a
+third party to broadcast an organization's
+display ads or sponsored messages to
+social media users."	paid media marketing	D333::Terms
+pkd4UBe}vS	wguD333Terms	WGU BSDA::D333-Terms	"a grant of a property right issued by this U.S. office to an
+inventor; permits its owner to exclude the
+public from making, using, or selling a
+protected invention, and allows for legal
+action against violators."	patent	D333::Terms
+ICGwU>Jo=?	wguD333Terms	WGU BSDA::D333-Terms	"a violation of the rights secured by the
+owner of this grant of property; occurs when someone makes unauthorized use of another's issued grant of property."	patent infringement	D333::Terms
+L7%W*GW>$=	wguD333Terms	WGU BSDA::D333-Terms	"a device that records electronic impulses
+to identify the numbers dialed for outgoing calls."	pen register	D333::Terms
+ghHpKkDc;s	wguD333Terms	WGU BSDA::D333-Terms	"the act of fraudulently using email to try
+to get the recipient to reveal personal
+data."	phishing	D333::Terms
+B~*TleP/og	wguD333Terms	WGU BSDA::D333-Terms	"the act of stealing someone's ideas or
+words and passing them off as one's own."	plagiarism	D333::Terms
+HS]VHB7IFe	wguD333Terms	WGU BSDA::D333-Terms	"the guidelines and standards by which
+the organization must abide."	policy	D333::Terms
+n+6YWDa3GD	wguD333Terms	WGU BSDA::D333-Terms	"a process that couples human guidance
+with computer-driven concept searching
+in order to ""train"" document review software to recognize relevant documents
+within a large collection of documents."	predictive coding	D333::Terms
+x[zn,SWAEY	wguD333Terms	WGU BSDA::D333-Terms	"the existing body of knowledge that is
+available to a person of ordinary skill in
+the art."	prior art	D333::Terms
+dsuQm<)6o8	wguD333Terms	WGU BSDA::D333-Terms	"establishes a code of fair information
+practices that sets rules for the collection,
+maintenance, use, and dissemination of
+personal data that is kept in systems of
+records by federal agencies."	privacy act	D333::Terms
+jsG8Ql+MZJ	wguD333Terms	WGU BSDA::D333-Terms	"a clear, concise description of the issue
+that needs to be addressed."	problem statement	D333::Terms
+Krx{r*Mt^X	wguD333Terms	WGU BSDA::D333-Terms	defines the exact instructions for completing each task in a process.	procedure	D333::Terms
+k;{&h).|*[	wguD333Terms	WGU BSDA::D333-Terms	a collection of tasks designed to accomplish a stated objective.	process	D333::Terms
+n`d4>Nn2<w	wguD333Terms	WGU BSDA::D333-Terms	"the liability of manufacturers, sellers,
+lessors, and others for injuries caused by
+defective products."	product liability	D333::Terms
+EnlYvN$=p/	wguD333Terms	WGU BSDA::D333-Terms	"the principles and core values that are
+essential to the work of a particular occupational group."	professional code of ethics	D333::Terms
+Kw!W@P`;dc	wguD333Terms	WGU BSDA::D333-Terms	breach of the duty of care by a professional.	professional malpractice	D333::Terms
+bU)=$rz8.=	wguD333Terms	WGU BSDA::D333-Terms	"the defining, measuring, and refining of
+the quality of the development process
+and the products developed during its
+various stages. the objective of this type of process is to help developers deliver high-quality systems that meet the
+needs of their users."	quality management	D333::Terms leech
+H&`V,BpwBN	wguD333Terms	WGU BSDA::D333-Terms	"a provision of the false claims act that
+allows a private citizen to file a suit in
+the name of the U.S. government, charging fraud by government contractors and
+other entities who receive or use government funds. See also False Claim Act."	qui tam	D333::Terms
+H?5lrV!P}W	wguD333Terms	WGU BSDA::D333-Terms	"malware that stops you from using your
+computer or accessing your data until
+you meet certain demands, such as paying a ransom or sending photos to the
+attacker."	ransomware	D333::Terms
+A|f_y%vnBr	wguD333Terms	WGU BSDA::D333-Terms	"a concept in computer security that recognizes that managers must use their
+judgment to ensure that the cost of control does not exceed the system's benefits or the risks involved."	reasonable assurance	D333::Terms
+LjbAL/kR(8	wguD333Terms	WGU BSDA::D333-Terms	a legal standard that defines how an objective, careful, and conscientious person would have acted in the same circumstances.	reasonable person standard	D333::Terms
+"o#0mtVki)2"	wguD333Terms	WGU BSDA::D333-Terms	"a legal standard that defendants who
+have particular expertise or competence
+are measured against."	reasonable professional standard	D333::Terms
+mX9$CHHtej	wguD333Terms	WGU BSDA::D333-Terms	"the provision of multiple interchangeable
+components to perform a single function
+in order to cope with failures and errors."	redundancy	D333::Terms
+z7So^MksfP	wguD333Terms	WGU BSDA::D333-Terms	"a measure of the rate of failure in a system that would render it unusable over its
+expected lifetime."	reliability	D333::Terms
+MK&Y/O}Z@{	wguD333Terms	WGU BSDA::D333-Terms	"also called home monitoring, it is the regular, ongoing, accurate measurement of
+an individual's vital signs and other health measures and the
+transmission of this data to a healthcare
+provider."	remote monitoring	D333::Terms
+IH|&&b>VR2	wguD333Terms	WGU BSDA::D333-Terms	"falsely claiming competence in a skill,
+usually because that skill is in high demand."	résumé inflation	D333::Terms
+q5MSu<k2dw	wguD333Terms	WGU BSDA::D333-Terms	"the process of taking something apart in
+order to understand it, build a copy of it,
+or improve it."	reverse engineering	D333::Terms
+eOjj(zCLou	wguD333Terms	WGU BSDA::D333-Terms	""" the right to be left alone—the most comprehensive of rights, and the right most
+valued by a free people."""	right of privacy	D333::Terms
+n4/_q/}<$!	wguD333Terms	WGU BSDA::D333-Terms	an act that protects the records of financial institution customers from unauthorized scrutiny by the federal government.	right to financial privacy act	D333::Terms
+g&y7|+Ux$s	wguD333Terms	WGU BSDA::D333-Terms	"the process of assessing security-related risks to an organization's computers
+and networks from both internal and external threats."	risk assessment	D333::Terms
+h4jm;x/*6U	wguD333Terms	WGU BSDA::D333-Terms	the potential of gaining or losing something of value. this can be quantified by three elements: a risk event, the probability of the event happening, and the impact (positive or negative) on the business outcome if the risk does actually occur.	risk	D333::Terms
+m6APvLmyAM	wguD333Terms	WGU BSDA::D333-Terms	"the process of identifying, monitoring,
+and limiting risks to a level that an organization is willing to accept."	risk management	D333::Terms
+"mn_4a<#&DY"	wguD333Terms	WGU BSDA::D333-Terms	"a branch of engineering that involves
+the development and manufacturing of mechanical or computer devices that can
+perform tasks that require a high degree
+of precision or that are tedious or hazardous for human beings, such as painting cars or making precision welds."	robotics	D333::Terms
+y6,&HEu=^7	wguD333Terms	WGU BSDA::D333-Terms	"a set of programs that enables its user
+to gain administrator-level access to a
+computer without the end user's consent
+or knowledge."	rootkit	D333::Terms
+CA*Wu&ivz^	wguD333Terms	WGU BSDA::D333-Terms	a system whose failure may cause human injury or death.	safety-critical system	D333::Terms
+Fm1ocs7[=!	wguD333Terms	WGU BSDA::D333-Terms	a section of the Communications Decency Act (DCA) that provides immunity to an Internet service provider (ISP) that published user-generated content, as long as its actions do not rise to the level of a content provider.	section 230 of the CDA	D333::Terms
+GY2gHUd@wU	wguD333Terms	WGU BSDA::D333-Terms	"an evaluation of whether an organization
+has a well-considered security policy in
+place and if it is being followed."	security audit	D333::Terms
+Kkqi&-wcl9	wguD333Terms	WGU BSDA::D333-Terms	"an organization's security requirements,
+as well as the controls and sanctions
+needed to meet those requirements."	security policy	D333::Terms
+r<49z(=$wL	wguD333Terms	WGU BSDA::D333-Terms	"the concept of having different aspects
+of a process handled by different people
+to prevent fraud."	separation of duties	D333::Terms
+lEy`<Bf-tL	wguD333Terms	WGU BSDA::D333-Terms	"sending sexual messages, nude or seminude photos, or sexually explicit videos
+over a cell phone."	sexting	D333::Terms
+EddV_xF|SJ	wguD333Terms	WGU BSDA::D333-Terms	an oral defamatory statement.	slander	D333::Terms
+u?p1LKOoQq	wguD333Terms	WGU BSDA::D333-Terms	another variation of phishing that involves the use of texting.	smishing	D333::Terms
+lA.uwa:`)+	wguD333Terms	WGU BSDA::D333-Terms	"a process whereby an organization reviews how well it is meeting its ethical
+and social responsibility goals and communicates its new goals for the upcoming
+year."	social audit	D333::Terms
+uKNSAIE_:7	wguD333Terms	WGU BSDA::D333-Terms	"web-based communication channels
+and tools that enable people to interact
+with each other by creating online communities where they can share information, ideas, messages, and other content,
+including images, audio, and video."	social media	D333::Terms
+l]ku?<h,8[	wguD333Terms	WGU BSDA::D333-Terms	"a form of marketing that involves the use
+of social networks to communicate and
+promote the benefits of products and services."	social media marketing	D333::Terms
+t;&&BH&o!J	wguD333Terms	WGU BSDA::D333-Terms	"technology that allows creation of an online community of Internet users that enables members to break down barriers
+created by time, distance, and cultural
+differences."	social networking platform	D333::Terms
+yC|I6b:xH&	wguD333Terms	WGU BSDA::D333-Terms	"a combination of shopping and social
+networking."	social shopping platform	D333::Terms
+euiG)%tmF6	wguD333Terms	WGU BSDA::D333-Terms	"any error that, if not removed, could
+cause a software system to fail to meet
+its users' needs."	software defect	D333::Terms
+pDi0gNNNI<	wguD333Terms	WGU BSDA::D333-Terms	"a standard, proven work process that
+enables systems analysts, programmers,
+project managers, and others to make
+controlled and orderly progress in developing high-quality software."	software development methodology	D333::Terms
+"OJ#2pXav;!"	wguD333Terms	WGU BSDA::D333-Terms	"one who applies engineering principles
+and practices to the design, development, implementation, testing, and maintenance of software."	software engineer	D333::Terms
+N7)-xEc(2|	wguD333Terms	WGU BSDA::D333-Terms	"a form of copyright infringement that involves making copies of software or enabling others to access software to which
+they are not entitled."	software piracy	D333::Terms
+z]D0$e}/UW	wguD333Terms	WGU BSDA::D333-Terms	"the degree to which a software product
+meets the needs of its users."	software quality	D333::Terms
+mp9P~yhO>4	wguD333Terms	WGU BSDA::D333-Terms	the use of email systems to send unsolicited email to large numbers of people.	spam	D333::Terms
+yVmc8}}3iV	wguD333Terms	WGU BSDA::D333-Terms	"a variation of phishing in which the phisher sends fraudulent emails to a certain
+organization's employees."	spear phishing	D333::Terms
+"l-,{Q4VV#N"	wguD333Terms	WGU BSDA::D333-Terms	"someone who stands to gain or lose,
+depending on how a particular situation
+is resolved."	stakeholder	D333::Terms
+nXv~@35a_l	wguD333Terms	WGU BSDA::D333-Terms	a cell phone spy software that can be<br>loaded onto someone's cell phone or<br>smartphone within minutes, making it<br>possible for the user to perform location tracking, record calls, view every text message or picture sent or received, and record the URLs of any website visited on the phone.	stalking app	D333::Terms
+D-.N4igdge	wguD333Terms	WGU BSDA::D333-Terms	"a software-testing technique in which
+software is tested without actually executing the code. It consists of two
+steps—review and static analysis."	static testing	D333::Terms
+Ln?_n)y%a4	wguD333Terms	WGU BSDA::D333-Terms	"the acquiring of data, sound, images,
+and video from a patient and then transmitting everything to a medical specialist
+for later evaluation."	store-and-forward telemedicine	D333::Terms
+EOV&ye[jI9	wguD333Terms	WGU BSDA::D333-Terms	"a situation in which the defendant is held
+responsible for injuring another person,
+regardless of negligence or intent."	strict liability	D333::Terms
+P{@uVB7J@B	wguD333Terms	WGU BSDA::D333-Terms	"a component of corporate social responsibility (CSR) that focuses on developing and maintaining a supply chain that
+meets the needs of the present without
+compromising the ability of future generations to meet their needs."	supply chain sustainability	D333::Terms
+"hM6?wW#0I1"	wguD333Terms	WGU BSDA::D333-Terms	"someone who has explicit responsibility
+for ensuring that a system will operate in
+a safe and reliable manner while meeting
+its users' needs."	system safety engineer	D333::Terms
+"xX`Bd#sLYS"	wguD333Terms	WGU BSDA::D333-Terms	"software testing done after successful integration testing, where the various subsystems are combined to test the entire
+system as a complete entity."	system testing	D333::Terms
+CGqiL!8wuW	wguD333Terms	WGU BSDA::D333-Terms	"employs electronic information processing and telecommunications to support
+at-a-distance health care, provide professional and patient health-related training,
+and support healthcare administration."	telehealth	D333::Terms
+cKT~kl|f/`	wguD333Terms	WGU BSDA::D333-Terms	"a component of telehealth that provides
+medical care to people at a location different from the healthcare providers."	telemedicine	D333::Terms
+p-4-4JNJ!w	wguD333Terms	WGU BSDA::D333-Terms	"generally unknown to the public, that a
+company has taken strong measures to
+keep confidential."	trade secret Information	D333::Terms
+z3him~NKQY	wguD333Terms	WGU BSDA::D333-Terms	"a logo, package design, phrase, sound,
+or word that enables a consumer to differentiate one company's products from
+another's."	trademark	D333::Terms
+o@~y4,1ACH	wguD333Terms	WGU BSDA::D333-Terms	"the flow of personal data across national
+boundaries."	transborder data flow	D333::Terms
+IHLmdrVO%m	wguD333Terms	WGU BSDA::D333-Terms	"a risk management strategy in which the
+risk, should it happen, does not rest solely on one individual or organization. for
+example, a common way to accomplish this type of risk is for an individual or
+an organization to purchase insurance,
+such as auto or business liability insurance. another way to do this type of risk is to
+outsource the risk by contracting with a
+third party to manage the risk."	transference	D333::Terms
+"C_S/~_~@#|"	wguD333Terms	WGU BSDA::D333-Terms	"a device that records the originating
+number of incoming calls for a particular
+phone number."	trap and trace	D333::Terms
+IAj=.g`3mD	wguD333Terms	WGU BSDA::D333-Terms	"a seemingly harmless program in which
+malicious code is hidden."	trojan horse	D333::Terms
+h]J87jfpoZ	wguD333Terms	WGU BSDA::D333-Terms	"under FISA, it is defined as a U.S. citizen,
+permanent resident, or company."	U.S. person	D333::Terms
+KGq!ZFGf(u	wguD333Terms	WGU BSDA::D333-Terms	"a software-testing technique that involves testing individual components of
+code (subroutines, modules, and programs) to verify that each unit performs
+as intended."	unit testing	D333::Terms
+NX,*2nfXbT	wguD333Terms	WGU BSDA::D333-Terms	"an act passed following startling revelations by edward snowden of secret NSA
+surveillance programs, which terminated
+the bulk collection of telephone metadata
+by the NSA."	USA freedom act	D333::Terms
+i%/q=vn;L<	wguD333Terms	WGU BSDA::D333-Terms	"an act passed 5 weeks after the terrorist
+attacks of September 11, 2001. it gave
+sweeping new powers both to domestic
+law enforcement and U.S. international
+intelligence agencies, including increasing the ability of law enforcement agencies to search telephone, email, medical,
+financial, and other records."	USA patriot act	D333::Terms
+"GK0N;#ZTjN"	wguD333Terms	WGU BSDA::D333-Terms	"software testing done independently by
+trained end users to ensure the system
+operates as expected."	user acceptance testing	D333::Terms
+N,HxQLmIz>	wguD333Terms	WGU BSDA::D333-Terms	"a type of patent ""issued for the invention
+of a new and useful process, machine,
+manufacture, or composition of matter, or
+a new and useful improvement thereof,
+it generally permits its owner to exclude
+others from making, using, or selling the
+invention for a period of up to 20 years
+from the date of patent application filing,
+subject to the payment of maintenance
+fees."""	utility patent	D333::Terms
+lTYH,t73^4	wguD333Terms	WGU BSDA::D333-Terms	a habit of unacceptable behavior.	vice	D333::Terms
+n&xaA@h^[@	wguD333Terms	WGU BSDA::D333-Terms	"an approach to advertising that encourages individuals to pass along a marketing message to others, thus creating
+the potential for exponential growth in the
+message's exposure and influence."	viral marketing	D333::Terms
+iQ=c$$A]et	wguD333Terms	WGU BSDA::D333-Terms	"a habit that inclines people to do what is
+acceptable."	virtue	D333::Terms
+B,M9<NCFCO	wguD333Terms	WGU BSDA::D333-Terms	"a piece of programming code, usually
+disguised as something else, that causes
+a computer to behave in an unexpected
+and usually undesirable manner."	virus	D333::Terms
+"D&BZ|Yc~.#"	wguD333Terms	WGU BSDA::D333-Terms	"a specific sequence of bytes that indicates to antivirus software that a specific
+virus is present."	virus signature	D333::Terms
+JnwGct*Ao:	wguD333Terms	WGU BSDA::D333-Terms	"similar to smishing except that the victims receive a voice-mail message telling&nbsp;them to call a phone number or access a
+website."	vishing	D333::Terms
+FR|L[$i[ce	wguD333Terms	WGU BSDA::D333-Terms	"assures buyers or lessees that a product
+meets certain standards of quality."	warranty	D333::Terms
+mRw1nKywx.	wguD333Terms	WGU BSDA::D333-Terms	"a software development methodology
+that involves a sequential, multistage
+system development process in which
+development of the next stage of the system cannot begin until the results of the
+current stage are approved or modified
+as necessary."	"waterfall system development
+model"	D333::Terms
+wZ;>:3yqU1	wguD333Terms	WGU BSDA::D333-Terms	"an effort by an employee to attract attention to a negligent, illegal, unethical,
+abusive, or dangerous act by a company
+that threatens the public interest."	whistle-blowing	D333::Terms
+d%~+SzUSyK	wguD333Terms	WGU BSDA::D333-Terms	"a type of dynamic testing that treats the
+software unit as a device that has expected input and output behaviors but
+whose internal workings, unlike the unit
+in black-box testing, are known."	white-box testing	D333::Terms
+jpt8}{ZpV.	wguD333Terms	WGU BSDA::D333-Terms	"a law that regulates the interception of
+wire (telephone) and oral communications; also known as the Title III of the
+Omnibus Crime Control and Safe Streets
+Act."	wiretap act	D333::Terms
+pxf{{pXk};	wguD333Terms	WGU BSDA::D333-Terms	"a harmful program that resides in the
+active memory of the computer and duplicates itself."	worm	D333::Terms
+m2n5yFMO-b	wguD333Terms	WGU BSDA::D333-Terms	"a cyberattack that takes place before the
+security community and/or software developers become aware of and fix a security vulnerability."	zero-day exploit	D333::Terms
+AwQ;G*c&5p	wguD333Terms	WGU BSDA::D333-Terms	"a computer that is part of a botnet and
+that is controlled by a hacker without the
+knowledge or consent of the owner."	zombie	D333::Terms
+HPs|{SX36E	wguD333Terms	WGU BSDA::D333-Terms	acts that conform to the law	legal acts	D333::Terms
+i0EVaYao32	wguD333Terms	WGU BSDA::D333-Terms	"the notion that corporations are expected
+to go above and beyond following the law
+and making a profit."	corporate social responsibility	D333::Terms
+sUL^a0sCD`	wguD333Terms	WGU BSDA::D333-Terms	a clear and concise identification and description of the design problem or opportunity.	problem statement	D333::Terms
+eP|[(ZaSsE	wguD333Terms	WGU BSDA::D333-Terms	immoral or wicked behavior	vice	D333::Terms
+EYb_>a.?tw	wguD333Terms	WGU BSDA::D333-Terms	"is information, generally unknown to the
+public, that a company has taken strong
+measures to keep confidential."	trade secret	D333::Terms
+"phmY:MZ2#R"	wguD333Terms	WGU BSDA::D333-Terms	"the guidelines and standards by which
+the organization MUST abide."	policies	D333::Terms
+"HIX>]#)A8h"	wguD333Terms	WGU BSDA::D333-Terms	"a collection of steps designed to direct
+the most important tasks of an organization."	processes	D333::Terms
+"n[x#@$6Og3"	wguD333Terms	WGU BSDA::D333-Terms	"process by which a person who has
+met certain criteria established by a
+nongovernmental association is granted
+recognition."	certification	D333::Terms
+"DZ#~{1kh`w"	wguD333Terms	WGU BSDA::D333-Terms	"failure to act as a reasonable person
+would act."	breach of care of duty	D333::Terms
+E4/2kT-IaT	wguD333Terms	WGU BSDA::D333-Terms	"Common ethical issues for this type of user:<br><ul><li>Software Piracy
+</li><li>Inappropriate use of computing resources
+</li><li>Inappropriate Sharing of information</li></ul>"	"IT
+users"	D333::Terms
+pjI2$>$0ve	wguD333Terms	WGU BSDA::D333-Terms	"Key elements for this type of policy:<br><ol><li>Purpose of the AUP - Why is the policy
+needed and what are its goals?
+</li><li>Scope - Who and what is covered under the AUP?
+</li><li>Policy - How are both acceptable use
+and unacceptable use defined; what are
+some examples of each?
+</li><li>Compliance - Who is responsible for
+monitoring compliance and how will it be
+measured?
+</li><li>Sanctions - What actions will be taken against an individual who violates the
+policy?</li></ol>"	Acceptable Use Policy (AUP)	D333::Terms
+Bk@9-`B4q^	wguD333Terms	WGU BSDA::D333-Terms	"business processes that are essential
+to continued operations and goal attainment."	mission-critical processes	D333::Terms
+I^da[_tS?@	wguD333Terms	WGU BSDA::D333-Terms	"identifies the various U.S. governmental intelligence-gathering agencies, and
+defines what information can be collected, retained, and disseminated by these
+agencies"	executive order 12333	D333::Terms
+xT`@TMMBC6	wguD333Terms	WGU BSDA::D333-Terms	"a homeowners' association
+(HOA) installs license plate
+readers after an increase in reported crime in the neighborhood. two domestic workers petition the HOA, requesting that
+their data be deleted to protect
+their privacy. the HOA considers
+this but denies their request, citing the greater need for security
+protection for residents. which ethical theory does this
+represent?"	Consequentialism	D333::Terms
+sSdKp^MG^V	wguD333Terms	WGU BSDA::D333-Terms	the marketing department of a financial services institution asks data scientists to build a consumer profile based on transaction data. although company lawyers approve the request to explicitly signal customers with potential gambling addiction problems, the data scientists refuse to build the profiles. <br><br>what describes this request?	unethical and legal <i>(potentially exploiting consumer data | approved by lawyers)</i>	D333::Terms
+fO]~%HiJ&D	wguD333Terms	WGU BSDA::D333-Terms	a U.S. company launched an e-commerce platform in the European Union (EU). the board of directors raised concerns about compliance with applicable privacy regulations and the collection of customer information. <br><br>which regulation applies to this scenario?	general data protection regulation (GDPR)	D333::Terms
+e5%`==|Q%7	wguD333Terms	WGU BSDA::D333-Terms	a government contractor is rebuilding a telecommunications network. one of them contractors employees discovers that the company is participating in illegal and unethical acts to defraud the government. the employee considers filing a lawsuit against the company on behalf of the government. <br><br>which law protects the employee if the lawsuit is filed?	false claims act	D333::Terms
+h!Oe5i7Pge	wguD333Terms	WGU BSDA::D333-Terms	"which two intellectual property
+items are protected by a patent?"	inventions &amp; tools	D333::Terms
+"mr{u%3#dOm"	wguD333Terms	WGU BSDA::D333-Terms	an international organization based in a foreign country invites a U.S. ambassador to help promote its communications business. in exchange for the promotion, the president of the organization offers the ambassador a family trip package for 15 days as a thank-you gesture, with a bonus check of an undisclosed amount. <br><br>which law did the organization potentially violate?	foreign corrupt practices act	D333::Terms
+vHMF|-L]5*	wguD333Terms	WGU BSDA::D333-Terms	a healthcare company decides to adopt an artificial intelligence (AI) solution to help identify which doctors and drugs will provide the greatest value to patients. the data team is feeding four years of data into the system, including pharmacy and insurance claims. Based on this data, the (AI) will make recommendations based on which doctors and drugs should result in the best healthcare outcomes for patients. a data scientist is concerned about the disparate data sources and the fact that all information about a patient's medical history and ongoing treatment will be easily accessible.<br><br><br>what should the data scientist provide to the AI to ensure a comprehensive data set?	electronic health record (EHR) <i>(having an EHR makes the data set more comprehensive)</i>	D333::Terms
+d(z-04oiYK	wguD333Terms	WGU BSDA::D333-Terms	"a hospital wants to improve patient outcomes while reducing
+the amount of time it takes to
+send and receive a patient's
+treatment records to and from a
+neighboring hospital. the hospital engages a technology organization to create an electronic
+bridge to better facilitate faster
+data transfer while minimizing
+the threat of external parties
+compromising the data. which type of technology solution does the hospital implement?"	health information exchange	D333::Terms
+z$B&:rGynF	wguD333Terms	WGU BSDA::D333-Terms	"while on vacation, an IT leader
+leaves a manager in charge of
+a major client project. because
+the IT leader's team abides by&nbsp;a strong code of ethics, the
+IT leader knows the manager
+has the tools to perform ethical self-assessment during and
+after any challenging situations
+that may arise.
+<br><br>which benefit of following a
+professional code of ethics
+do these self-assessment tools
+provide?"	evaluation benchmark	D333::Terms
+s?4wS*IHIq	wguD333Terms	WGU BSDA::D333-Terms	"which verification should a software engineer obtain from the
+state to serve as proof of professional ability?"	license	D333::Terms
+fn>hSNE/y5	wguD333Terms	WGU BSDA::D333-Terms	a company releases a new financial software package. along with the installation program, the company includes a written assurance that the program meets appropriate levels of quality. it also provides for specific remedies in the case of malperformance. <br><br>what did the company use to limit its legal liabilities?	limited warranty <i>(the company&nbsp;restrict its legal liabilities by providing written assurance of the software's quality and specifying remedies for malperformance)</i>	D333::Terms
+hL+8@x!HOh	wguD333Terms	WGU BSDA::D333-Terms	a developer creates video games based on real war scenarios and designs characters that mimic real people from world events. the video game has content perceived as excessively violent and rewards players who inflict the most harm on other players' virtual characters. the developer knows that these are simulated acts that depicts real war scenarios to create an immersive experience for players but is concerned about the impact on their moral character. <br><br>which ethical theory does this situation represent?	virtue ethics <i>(b/c developer's concern about the moral impact of their video game's violent content on players)</i>	D333::Terms
+yXen<m[j82	wguD333Terms	WGU BSDA::D333-Terms	"the tendency to see things in relation to
+oneself; self-centeredness."	egoism	D333::Terms
+qNeXJS_kW_	wguD333Terms	WGU BSDA::D333-Terms	unselfish concern for the welfare of others.	altruism <i>(speaks more on the characteristics vs a theory)</i>	D333::Terms
+G2PfNr`u-T	wguD333Terms	WGU BSDA::D333-Terms	"the idea that actions are right and wrong
+in themselves independently of any consequences."	deontological ethics	D333::Terms
+mV{9e2zAz7	wguD333Terms	WGU BSDA::D333-Terms	philosophy that bases ethical behavior on the opinions and behaviors of relevant other people.	relativism ethics	D333::Terms
+ynI7=Os_Y7	wguD333Terms	WGU BSDA::D333-Terms	this act regulates the operations of credit reporting bureaus, including how they collect, store, and use credit information. it’s enforced by the Federal Trade Commission.	fair credit reporting act	D333::Terms
+uqFjJ@N0Dd	wguD333Terms	WGU BSDA::D333-Terms	this act protects the records of financial institution customers from unauthorized scrutiny by the federal government. under this act, a customer must receive written notice if a federal agency is seeking their records along with an explanation of why.	right to financial privacy act	D333::Terms
+yx^<G4KT!X	wguD333Terms	WGU BSDA::D333-Terms	this act repealed the Glass-Steagall law, which prohibited a single institution from offering investment, commercial banking, and insurance services. under Glass-Steagall, they could only provide one of these services. however, now banks can provide all three!	gramm-leach-bliley (GLBA) act <i>aka the financial services modernization act</i>	D333::Terms
+O97>7?rPK8	wguD333Terms	WGU BSDA::D333-Terms	this act, from 2003, allows customers to receive a free credit report once yearly from each of the 3 primary consumer credit reporting companies (Equifax, Experian, and TransUnion).	fair and accurate credit transactions act	D333::Terms
+c.:5Ce82-Z	wguD333Terms	WGU BSDA::D333-Terms	this act was designed to improve the portability and continuity of health insurance coverage; to reduce fraud, waste, and abuse in health insurance and healthcare delivery.	health insurance portability and accountability act (HIPAA)	D333::Terms
+G6y|_bs=1F	wguD333Terms	WGU BSDA::D333-Terms	this act includes the health information technology for economic and clinical health act (HITECH), which offers strong privacy provisions for electronic health records. it bans the sale of health info, promotes audit trails, and provides access right for patients.	american recovery and reinvestment act	D333::Terms
+D!j-4GBid)	wguD333Terms	WGU BSDA::D333-Terms	this law provides rights to parents regarding their children’s educational records, they transfer to the individual at age 18. provides rights to access, disclose, and amend these records.	family educational rights and privacy act (FERPA)	D333::Terms
+MyKGDM9K[q	wguD333Terms	WGU BSDA::D333-Terms	with this act, any website that caters to children must offer privacy polies, notify parental guardians about data collection practices, and receive parental consent before collecting information from children under 13.	children’s online privacy protection act (COPPA)	D333::Terms
+Ob_n3OA8u)	wguD333Terms	WGU BSDA::D333-Terms	this law regulates the interception of wire (telephone) and oral communications. state and federal law enforcement can wiretap only with warrant from judge.	title 3 of the omnibus crime control and safe streets act aka the “wiretap act”	D333::Terms
+zw6@<%316u	wguD333Terms	WGU BSDA::D333-Terms	this act describes procedures for the electronic surveillance of foreign intelligence information in communications between foreign powers and their agents. uses a secret court to approve the surveillance.	foreign intelligence surveillance act (FISA)	D333::Terms
+h}57!N]}:-	wguD333Terms	WGU BSDA::D333-Terms	this legal order allows intelligence-gathering agencies to collect information, including messages, obtained in the course of lawful foreign intelligence, counterintelligence, international drug, or international terrorism investigation.	executive order 12333 by Ronald Reagan	D333::Terms
+u3zzV0(*0v	wguD333Terms	WGU BSDA::D333-Terms	this act offers protection of communications while in transfer to sender/receiver and electronic storage, also prohibits devices from recording without a search warrant or National Security Letter (NSL). when legally approved, pen registers or trap and trace devices may be used by law enforcement.	electronic communications privacy act (ECPA)	D333::Terms
+vmtctR!y`^	wguD333Terms	WGU BSDA::D333-Terms	this act maintains that a court order to intercept electronic communication can only be obtained if it is shown that a crime is being committed, that the communications about the crime with be intercepted, and the the equipment being tapped is being used by the suspect. this act amended both wiretap act and (ECPA).	communications assistance for law enforcement act (CALEA)	D333::Terms
+Q|d}aDVSJV	wguD333Terms	WGU BSDA::D333-Terms	this act was passed after 9/11, expanding abilities of both domestic law enforcement and US intelligence agencies to search telephone, email, medical, financial, and other records. also eased restrictions on gathering foreign intelligence.	usa patriot act	D333::Terms
+ohC`=4d+?3	wguD333Terms	WGU BSDA::D333-Terms	this act was signed by the president following 9/11, granting the NSA to collect (without court-approved warrants) international communications as they flow through US telecommunications equipment.	(FISA) amendments act of 2008	D333::Terms
+uU<ZE8&7KC	wguD333Terms	WGU BSDA::D333-Terms	this act was passed in 2015 following Edward Snowden’s NSA surveillance revelations. this act terminated the bulk collection of phone metadata by the NSA. phone providers hold the data and respond to NSA requests. also restores roving wiretaps and the tracking of lone wolf terrorists.	usa freedom act	D333::Terms
+lkvd!tLRXY	wguD333Terms	WGU BSDA::D333-Terms	requires any company doing business within the european union (EU) to implement a set of privacy directives so that all data transferred to non-eu countries are protected.	european union protection directive	D333::Terms
+h6+hcA*&TN	wguD333Terms	WGU BSDA::D333-Terms	strengthens (EU) data protection by addressing the export of personal data outside the (EU) and enabling citizens to see/correct their personal data. organizations anywhere in the world that collect, store, or transfer personal data of (EU) citizens must work to ensure that their systems and procedures are compliant with this strict new framework.	general data protection regulation (GDPR)	D333::Terms
+EV88m9i~Cv	wguD333Terms	WGU BSDA::D333-Terms	grants u.s. citizens the right to access certain information and records of federal, state, and local governments upon request. this enables journalists and the public to acquire information that the government may be reluctant to release.	freedom of information act (FOIA)	D333::Terms
+Ha23q?l<M`	wguD333Terms	WGU BSDA::D333-Terms	establishes a code of fair information practices that sets rules for the collection, maintenance, use, and dissemination of personal data that is kept by federal agencies. it also prohibits U.S. government agencies from concealing the existence of any personal data record-keeping system, however the CIA and law enforcement agencies are excluded from this act.	the privacy act	D333::Terms

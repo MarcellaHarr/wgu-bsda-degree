@@ -1,0 +1,87 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+My?vdsd9hP	wguD333Acronyms	WGU BSDA::Acronyms	(ACPA)	Anti-cybersquatting Consumer Protection Act	D333::Acronyms
+g]q@hqO*fP	wguD333Acronyms	WGU BSDA::Acronyms	(AI)	Artificial Intelligence	D333::Acronyms
+yKkw%?t!O>	wguD333Acronyms	WGU BSDA::Acronyms	(AIA)	Leahy-Smith (America Invents Act)	D333::Acronyms
+GbEr2@b`hm	wguD333Acronyms	WGU BSDA::Acronyms	(APT)	Advanced Persistent Threat	D333::Acronyms
+Hl.r4f`ogP	wguD333Acronyms	WGU BSDA::Acronyms	(AUP)	Acceptable Use Policy	D333::Acronyms
+hKKmlF?kqJ	wguD333Acronyms	WGU BSDA::Acronyms	(BSA)	Business Software Alliance	D333::Acronyms
+QJQiwMvf4L	wguD333Acronyms	WGU BSDA::Acronyms	(BYOD)	Bring Your Own Device	D333::Acronyms
+pvjC{GEhc9	wguD333Acronyms	WGU BSDA::Acronyms	(CAPTCHA)	Completely Automated Public Turing Test to Tell Computers and Humans Apart	D333::Acronyms
+kncxEjNu(4	wguD333Acronyms	WGU BSDA::Acronyms	(CDS)	Clinical Decision Support	D333::Acronyms
+NlI=mCeAWK	wguD333Acronyms	WGU BSDA::Acronyms	(CDA)	Communications Decency Act	D333::Acronyms
+eN|L+9t;x.	wguD333Acronyms	WGU BSDA::Acronyms	(COPA)	Child Online Protection Act	D333::Acronyms
+EKxw:Cxm:W	wguD333Acronyms	WGU BSDA::Acronyms	(COPPA)	Children's Online Privacy Protection Act	D333::Acronyms
+QCpChWVP:-	wguD333Acronyms	WGU BSDA::Acronyms	(CIPA)	Children's Internet Protection Act	D333::Acronyms
+FJko9f+W!~	wguD333Acronyms	WGU BSDA::Acronyms	(CIA) Security Triad	Confidentiality, Integrity, and Availability	D333::Acronyms
+ruIMu!y{TC	wguD333Acronyms	WGU BSDA::Acronyms	(CPOE) System	Computerized Provider Order Entry System	D333::Acronyms
+LTkM=MGdnQ	wguD333Acronyms	WGU BSDA::Acronyms	(CAN-SPAM) Act	"Controlling the Assault of Non-Solicited Pornography and
+Marketing Act"	D333::Acronyms
+iJCCNC%Hk^	wguD333Acronyms	WGU BSDA::Acronyms	(CSR)	Corporate Social Responsibility	D333::Acronyms
+m)>Kh1GmCV	wguD333Acronyms	WGU BSDA::Acronyms	(CPC)	Cost Per Click	D333::Acronyms
+Atp8miQDvY	wguD333Acronyms	WGU BSDA::Acronyms	(CPM)	Cost Per Thousand Impressions	D333::Acronyms
+"od#{b>W^H:"	wguD333Acronyms	WGU BSDA::Acronyms	(DSS)	Decision Support System	D333::Acronyms
+MTETr,lQ+*	wguD333Acronyms	WGU BSDA::Acronyms	(DHS)	Department of Homeland Security	D333::Acronyms
+d^<2FqR8ys	wguD333Acronyms	WGU BSDA::Acronyms	(DMCA)	Digital Millennium Copyright Act	D333::Acronyms
+O!Flv|deSl	wguD333Acronyms	WGU BSDA::Acronyms	(DDoS) Attack	Distributed Denial-of-Service Attack	D333::Acronyms
+su)YE>k!E<	wguD333Acronyms	WGU BSDA::Acronyms	(DTSA)	Defend Trade Secrets Act	D333::Acronyms
+I@`:HO5.(y	wguD333Acronyms	WGU BSDA::Acronyms	(EEA)	Economic Espionage Act	D333::Acronyms
+iC;7zQsPIi	wguD333Acronyms	WGU BSDA::Acronyms	(EHR)	Electronic Health Record	D333::Acronyms
+E/F@6|M}5C	wguD333Acronyms	WGU BSDA::Acronyms	(EMR)	Electronic Medical Record	D333::Acronyms
+evghcerLUV	wguD333Acronyms	WGU BSDA::Acronyms	(EPEAT)	Electronic Product Environmental Assessment Tool	D333::Acronyms
+K=u2GCKGSu	wguD333Acronyms	WGU BSDA::Acronyms	(FCPA)	Foreign Corrupt Practices Act	D333::Acronyms
+B0_F2f<t6,	wguD333Acronyms	WGU BSDA::Acronyms	(FERPA)	Family Educational Rights and Privacy Act	D333::Acronyms
+GPj{c_Y=ay	wguD333Acronyms	WGU BSDA::Acronyms	(HIE)	Health Information Exchange	D333::Acronyms
+flnZC.8.q/	wguD333Acronyms	WGU BSDA::Acronyms	(HIPAA)	Health Insurance Portability and Accountability Act	D333::Acronyms
+c;z+vLz~l<	wguD333Acronyms	WGU BSDA::Acronyms	(HITECH) Act	Health Information Technology for Economic and Clinical Health Act	D333::Acronyms
+lT5f?ApSso	wguD333Acronyms	WGU BSDA::Acronyms	(ICANN)	Internet Corporation for Assigned Names	D333::Acronyms
+zi;:xK;2XG	wguD333Acronyms	WGU BSDA::Acronyms	(IDS)	Intrusion Detection System	D333::Acronyms
+J%.N:jzXLG	wguD333Acronyms	WGU BSDA::Acronyms	(IPR)	Intellectual Property Rights	D333::Acronyms
+y}Fc2g!H^L	wguD333Acronyms	WGU BSDA::Acronyms	(ISAE) No. 3402	International Standard on Assurance Engagements No. 3402	D333::Acronyms
+qc{@2]x,Fp	wguD333Acronyms	WGU BSDA::Acronyms	(ISO) 9001 Family of Standards	International Organization for Standardization 9001 Family of Standards	D333::Acronyms
+Nu:v.(vLw`	wguD333Acronyms	WGU BSDA::Acronyms	(IT)	Information Technology	D333::Acronyms
+M8,IW;-FcE	wguD333Acronyms	WGU BSDA::Acronyms	(NGFW)	Next-Generation Firewall	D333::Acronyms
+nX1056kM0h	wguD333Acronyms	WGU BSDA::Acronyms	(PAPA)	Privacy, Accuracy, Property, Access	D333::Acronyms
+NvO`4pwl<)	wguD333Acronyms	WGU BSDA::Acronyms	(PHR)	Personal Health Record	D333::Acronyms
+I05X9|1gu=	wguD333Acronyms	WGU BSDA::Acronyms	(PEO)	Professional Employer Organization	D333::Acronyms
+si`F!{lxLN	wguD333Acronyms	WGU BSDA::Acronyms	(RWB)	Reporters without Borders	D333::Acronyms
+NP$KX~NZ{[	wguD333Acronyms	WGU BSDA::Acronyms	(SIIA)	Software &amp; Information Industry Association	D333::Acronyms
+h,oH|hQBde	wguD333Acronyms	WGU BSDA::Acronyms	(SSAE) No. 16 Audit Report	Statement on Standards for Attestation Engagements No. 16 Audit Report	D333::Acronyms
+F^.;@v3+$=	wguD333Acronyms	WGU BSDA::Acronyms	(SLAPP)	Strategic Lawsuit Against Public Participation	D333::Acronyms
+v@0F.Wg;2^	wguD333Acronyms	WGU BSDA::Acronyms	(TLS)	Transport Layer Security	D333::Acronyms
+rJq)U`{w]O	wguD333Acronyms	WGU BSDA::Acronyms	(US-CERT)	U.S. Computer Emergency Readiness Team	D333::Acronyms
+h,k1gVXA(y	wguD333Acronyms	WGU BSDA::Acronyms	(UTSA)	Uniform Trade Secrets Act	D333::Acronyms
+lh3U%p=w80	wguD333Acronyms	WGU BSDA::Acronyms	(WTO) Agreement (TRIPS)	World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights	D333::Acronyms
+FyFw8.{L[M	wguD333Acronyms	WGU BSDA::Acronyms	(TRIPS)	"Agreement on Trade-Related Aspects of Intellectual Property
+Rights"	D333::Acronyms
+m9.~on!}w6	wguD333Acronyms	WGU BSDA::Acronyms	ALE	Annualized Loss Expectancy	D333::Acronyms
+Ky3J1b8mT0	wguD333Acronyms	WGU BSDA::Acronyms	(ARO)	annualized rate of occurrence	D333::Acronyms
+rk=~e_(PT.	wguD333Acronyms	WGU BSDA::Acronyms	(CMMI) Models	Capability Maturity Model Integration Models	D333::Acronyms
+"b#Q}FYio9a"	wguD333Acronyms	WGU BSDA::Acronyms	(CMMI-DEV)	Capability Maturity Model Integration Development	D333::Acronyms
+AgtScC|p=i	wguD333Acronyms	WGU BSDA::Acronyms	(CMMI)	Capability Maturity Model Integration	D333::Acronyms
+B7$seyECOo	wguD333Acronyms	WGU BSDA::Acronyms	(ECPA)	Electronic Communications Privacy Act	D333::Acronyms
+gg7d)a%7x3	wguD333Acronyms	WGU BSDA::Acronyms	(e-discovery)	Electronic Discovery	D333::Acronyms
+LZ;B.8e^ON	wguD333Acronyms	WGU BSDA::Acronyms	(ESI)	Electronically Stored Information	D333::Acronyms
+mnm3jPw.8y	wguD333Acronyms	WGU BSDA::Acronyms	(FMEA)	Failure Mode and Effects Analysis	D333::Acronyms
+"vvF61``2e#"	wguD333Acronyms	WGU BSDA::Acronyms	(FISA)	Foreign Intelligence Surveillance Act	D333::Acronyms
+IB~Kys0/Cs	wguD333Acronyms	WGU BSDA::Acronyms	(FISA) Court	Foreign Intelligence Surveillance Act Court	D333::Acronyms
+E8${Dg@946	wguD333Acronyms	WGU BSDA::Acronyms	(FOIA)	Freedom of Information Act	D333::Acronyms
+hjHr7AYJ8|	wguD333Acronyms	WGU BSDA::Acronyms	(GLBA)	Gramm-Leach-Bliley Act	D333::Acronyms
+vv.,HGPzt5	wguD333Acronyms	WGU BSDA::Acronyms	(infosec) group	Information Security (infosec) Group	D333::Acronyms
+hN5Y1}!(2o	wguD333Acronyms	WGU BSDA::Acronyms	(MSSP)	Managed Security Service Provider	D333::Acronyms
+qLxeQ9t%fG	wguD333Acronyms	WGU BSDA::Acronyms	(NSL)	National Security Letter	D333::Acronyms
+O2:x^?e:-.	wguD333Acronyms	WGU BSDA::Acronyms	(PRO-IP) Act of 2008	Prioritizing Resources and Organization for Intellectual Property Act of 2008	D333::Acronyms
+w!*ils!a>-	wguD333Acronyms	WGU BSDA::Acronyms	(QA)	Quality Assurance	D333::Acronyms
+qTBe`iW%r&	wguD333Acronyms	WGU BSDA::Acronyms	(SLE)	Single Loss Expectancy	D333::Acronyms
+"Bv9xae#=Bw"	wguD333Acronyms	WGU BSDA::Acronyms	Vehicle (EDR)	Vehicle Event Data Recorder	D333::Acronyms
+HW0SP~<w!F	wguD333Acronyms	WGU BSDA::Acronyms	(COI)	Conflict of interest	D333::Acronyms
+MEqo89v;N3	wguD333Acronyms	WGU BSDA::Acronyms	(GDPR)	General Data Protection Regulation	D333::Acronyms
+NNYI_*)0t1	wguD333Acronyms	WGU BSDA::Acronyms	(CI)	Competitive Intelligence	D333::Acronyms
+BoDJ_Hmu08	wguD333Acronyms	WGU BSDA::Acronyms	(SORNA) Protection	"Sex Offender Registration and Notification Provisions of the Adam
+Walsh Child Protection"	D333::Acronyms
+FnK(nwvp^P	wguD333Acronyms	WGU BSDA::Acronyms	(HOA)	Homeowners' Association	D333::Acronyms
+wl^azM`mFm	wguD333Acronyms	WGU BSDA::Acronyms	(EU)	European Union	D333::Acronyms

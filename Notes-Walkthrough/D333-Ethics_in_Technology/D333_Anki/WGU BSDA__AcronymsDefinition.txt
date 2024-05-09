@@ -1,0 +1,289 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+jK^m>@{@+V	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a document that stipulates restrictions
+and practices that a user must agree
+in order to use organizational computing
+and network resources."	acceptable use policy (AUP)	D333::Acronyms::Definition
+syKQ-Mbl@J	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a network attack in which an intruder
+gains access to a network and stays
+there—undetected—with the intention of
+stealing data over a long period of time
+(weeks or even months)."	"advanced persistent threat
+(APT)"	D333::Acronyms::Definition leech
+nZ(Yi-aM:J	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an agreement of the World Trade Organization that requires member governments to ensure that intellectual property&nbsp;rights can be enforced under their laws
+and that penalties for infringement are
+tough enough to deter further violations."	agreement on trade-related aspects of intellectual property rights (TRIPS)	D333::Acronyms::Definition
+j}wY^6+@es	AcronymsDefinition	WGU BSDA::AcronymsDefinition	the estimated loss from a potential risk event over the course of a year. the following equation is used to calculated the ALE: <i>ARO × SLE = ALE</i>. where ARO is the annualized rate of occurrence, an estimate of the probability that this event will occur over the course of a year and SLE is the single loss expectancy, the estimated loss that would be incurred if the event happens.	annualized loss expectancy<br>(ALE)	D333::Acronyms::Definition
+hJ>=5e<)Pj	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an estimate of the probability that a risk
+event will occur over the course of a year."	"annualized rate of occurrence
+(ARO)"	D333::Acronyms::Definition
+yYTki_xwye	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a business policy that permits, and
+in some cases, encourages employees to use their own mobile devices
+(smartphones, tablets, or laptops) to access company computing resources and
+applications, including email, corporate
+databases, the corporate intranet, and
+the Internet."	bring your own device (BYOD)	D333::Acronyms::Definition
+Fia:)C,T@:	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a trade group that represent the world's
+largest software and hardware manufacturers."	(BSA) the business software alliance	D333::Acronyms::Definition
+Cnz%PH,gRh	AcronymsDefinition	WGU BSDA::AcronymsDefinition	collection of best practices that help organizations improve their processes.	capability maturity model integration (CMMI) models	D333::Acronyms::Definition
+e85WYgKk<k	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"software that generates and grades tests
+that humans can pass and all but the
+most sophisticated computer programs
+cannot."	completely automated public turing test to tell computers and humans apart (CAPTCHA)	D333::Acronyms::Definition
+htVo4dvJ@R	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act signed into law in 1998 with the
+aim of prohibiting the making of harmful
+material available to minors via the Internet; the law was ultimately ruled largely
+unconstitutional."	"child online protection act
+(COPA)"	D333::Acronyms::Definition
+koFRzTGe+j	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act passed in 2000; it required federally financed schools and libraries to
+use some form of technological protection (such as an Internet filter) to block
+computer access to obscene material,
+pornography, and anything else considered harmful to minors."	children's internet protection act (CIPA)	D333::Acronyms::Definition
+Nh52w}@I/2	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act implemented in 1998 in an attempt
+to give parents control over the collection,
+use, and disclosure of their children's
+personal information."	children's online privacy protection act (COPPA)	D333::Acronyms::Definition
+z}75[_$Z7{	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"refers to confidentiality, integrity, and
+availability"	(CIA) security triad	D333::Acronyms::Definition
+P>iPJ{nvg$	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a process and a set of tools designed
+to enhance healthcare-related decision
+making through the use of clinical knowledge and patient specific information to
+improve healthcare delivery."	clinical decision support (CDS)	D333::Acronyms::Definition
+uh~0se%VY.	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a specific application of CMMI frequently used to assess and improve software
+development practices."	CMMI-Development (CMMI-DEV)	D333::Acronyms::Definition
+g:eiR}HvaF	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act passed in 1994 that amended
+the Wiretap Act and Electronic Communications Privacy Act, which required
+the telecommunications industry to build
+tools into its products that federal investigators could use—after obtaining a court
+order—to eavesdrop on conversations
+and intercept electronic communications."	communications assistance for law enforcement act (CALEA)	D333::Acronyms::Definition
+c0s9mDY2x/	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"title V of the Telecommunications Act, it
+aimed at protecting children from pornography, including imposing $250,000 fines
+and prison terms of up to two years for
+the transmission of ""indecent"" material
+over the Internet."	"communications decency act
+(CDA)"	D333::Acronyms::Definition
+CtCLECpcVT	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a system that enables physicians to
+place orders (for drugs, laboratory tests,
+radiology, physical therapy) electronically, with the orders transmitted directly to
+the recipient."	computerized provider order entry (CPOE) system	D333::Acronyms::Definition
+"DT#<p:_rRP"	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a law that specifies that it is legal to
+spam, provided the messages meet a
+few basic requirements—spammers cannot disguise their identity by using a false
+return address, the email must include
+a label specifying that it is an ad or a
+solicitation, and the email must include a
+way for recipients to indicate that they do
+not want future mass mailings."	controlling the assault of non-solicited pornography and marketing (CAN-SPAM)	D333::Acronyms::Definition
+GN~W<>}xah	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"the concept that an organization should
+act ethically by taking responsibility for
+the impact of its actions on its shareholders, consumers, employees, community,
+environment, and suppliers."	"corporate social responsibility
+(CSR)"	D333::Acronyms::Definition
+"J$Th#wK2X*"	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"one of the two common methods of
+charging for paid media, where ads are
+paid for only when someone actually
+clicks on them."	cost per click (CPC)	D333::Acronyms::Definition
+wd;|6JeTgm	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"one of the two common methods of
+charging for paid media, where ads are
+billed at a flat rate per 1,000 impressions, which is a measure of the number of
+times an ad is displayed—whether it was
+actually clicked on or not."	"cost per thousand impressions
+(CPM)"	D333::Acronyms::Definition
+cMEa`!op09	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a type of business information system
+used to improve decision making in a
+variety of industries."	decision support system (DSS)	D333::Acronyms::Definition
+"BEjnSqqO#,"	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a large federal agency with more than
+240,000 employees and a budget of almost $65 billion whose goal is to provide
+for a ""safer, more secure America, which
+is resilient against terrorism and other
+potential threats."""	department of homeland security (DHS)	D333::Acronyms::Definition
+crzwOC-HI-	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"signed into law in 1998, the act addresses a number of copyright-related issues,
+with title II of the act providing limitations on the liability of an Internet service
+provider for copyright infringement."	"digital millennium copyright act
+(DMCA)"	D333::Acronyms::Definition
+IHU8YI48s1	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an attack in which a malicious hacker
+takes over computers via the Internet and
+causes them to flood a target site with
+demands for data and other small tasks."	"distributed denial-of-service
+(DDoS) attack"	D333::Acronyms::Definition
+b|z,@WF:k7	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act passed in 1996 to help law enforcement agencies pursue economic espionage. it imposes penalties of up to $10
+million and 15 years in prison for the theft
+of trade secrets."	"economic espionage act (EEA)
+of 1996"	D333::Acronyms::Definition
+w?6Ve$0&E&	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act that deals with the protection of
+three main issues: (1) the protection of
+communications while in transfer from
+sender to receiver; (2) the protection of
+communications held in electronic storage; and (3) the prohibition of devices
+from recording dialing, routing, addressing, and signaling information without a
+search warrant."	electronic communications privacy act (ECPA)	D333::Acronyms::Definition
+d)Z)c@wm5,	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"the collection, preparation, review, and
+production of electronically stored information for use in criminal and civil actions
+and proceedings."	electronic discovery (e-discovery)	D333::Acronyms::Definition
+"K#.U>b#Pzv"	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a collection of health-related information
+on an individual that is created, managed, and consulted by authorized clinicians and staff within a single healthcare
+organization."	electronic medical record (EMR)	D333::Acronyms::Definition
+u^n+;(89SW	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a system that enables purchasers to
+evaluate, compare, and select electronic
+products based on a total of 51 environmental criteria."	electronic product environmental assessment tool (EPEAT)	D333::Acronyms::Definition
+rI<Pyid_~V	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"any form of digital information, including emails, drawings, graphs, web
+pages, photographs, word-processing
+files, sound recordings, and databases
+stored on any form of magnetic storage
+device, including hard drives, CDs, and
+flash drives."	electronically stored information (ESI)	D333::Acronyms::Definition
+vGkK5hop.j	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an important technique used to develop
+ISO 9000-compliant quality systems by
+both evaluating reliability and determining the effects of system and equipment
+failures."	failure mode and effects analysis (FMEA)	D333::Acronyms::Definition leech
+o2Tgg=7]4.	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a federal law that assigns certain rights
+to parents regarding their children's educational records."	family educational rights and privacy act (FERPA)	D333::Acronyms::Definition
+b-u(L8+3M-	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act that makes it a crime to bribe a
+foreign official, a foreign political party
+official, or a candidate for foreign political
+office."	"foreign corrupt practices act
+(FCPA)"	D333::Acronyms::Definition
+OFRsp`50NO	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"describes procedures for the electronic
+surveillance and collection of foreign intelligence information in communication
+between foreign powers and the agents
+of foreign powers."	foreign intelligence surveillance act (FISA)	D333::Acronyms::Definition
+"Kmr4LkZU|#"	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"created by the FISA, this court meets in
+secret to hear applications for orders approving electronic surveillance anywhere
+within the United States."	foreign intelligence surveillance act (FISA) court	D333::Acronyms::Definition
+Mp<k)i5+u*	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a law that grants citizens the right to
+access certain information and records
+of federal, state, and local governments
+upon request."	"freedom of information act
+(FOIA)"	D333::Acronyms::Definition
+fx@{O<vR7L	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a bank deregulation law that repealed a depression-era law known as
+Glass-Steagall and requires companies
+that offer consumers financial products
+or services like loans, financial or investment advice, or insurance—to explain their information-sharing practices
+to their customers and to safeguard sensitive data."	gramm-leach-bliley act (GLBA)	D333::Acronyms::Definition
+gte~u8/Z6?	AcronymsDefinition	WGU BSDA::AcronymsDefinition	the process of sharing patient-level electronic health information between different organizations.	"health information exchange
+(HIE)"	D333::Acronyms::Definition
+s.JHBF5=2	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a program to incentivize physicians and
+hospitals to implement such systems. under this act, increased medicaid and medicare reimbursements are made to
+doctors and hospitals that demonstrate
+""meaningful use"" of electronic health
+record (EHR) technology."	health information technology for economic and clinical health act (HITECH)	D333::Acronyms::Definition
+F?.hOD>ZdH	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act designed to improve the portability
+and continuity of health insurance coverage; to reduce fraud, waste, and abuse
+in health insurance and healthcare delivery; and to simplify the administration of
+health insurance."	health insurance portability and accountability act (HIPAA)	D333::Acronyms::Definition
+n$krzi~-j>	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a group within an organization managing
+the processes, tools, and policies necessary to prevent, detect, document, and
+counter threats to digital and nondigital
+information, whether it is in transit, being
+processed, or at rest in storage."	"information security (infosec)
+group"	D333::Acronyms::Definition
+pt@8u*cpj0	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"software and/or hardware that monitors
+system and network resources and activities and notifies network security personnel when it detects network traffic that
+attempts to circumvent the security measures of a networked computer environment."	intrusion detection system (IDS)	D333::Acronyms::Definition
+NQT]l28Du3	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"developed to provide an international assurance standard for allowing public&nbsp;accountants to issue a report for use by user organizations and their auditors
+(user auditors) on the controls at a service organization that are likely to impact
+or be a part of the user organization's system of internal control over financial
+reporting."	International Standard on Assurance Engagements (ISAE) No. 3402	D333::Acronyms::Definition leech
+Fu^DIW!3Te	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a set of standards written to serve as a guide to
+quality products, services, and management. it provides a set of standardized
+requirements for a quality management system."	(ISO) 9001 family of standards	D333::Acronyms::Definition
+z*(yU@+YB5	AcronymsDefinition	WGU BSDA::AcronymsDefinition	a person who uses a hardware or software product; the term distinguishes end users from these types of  workers who develop, install, service, and support the product. These types of  users need the product to deliver organizational benefits or to increase their productivity.	(IT) user	D333::Acronyms::Definition
+Cn(NuGKpw&	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act that changed the U.S. patent system so that the first person to file with
+the U.S. Patent and Trademark Office will
+receive the patent, not necessarily the
+person who actually invented the item
+first."	leahy-smith america invents act (AIA)	D333::Acronyms::Definition
+xP2Fy(+23h	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a company that monitors, manages, and
+maintains computer and network security
+for other organizations."	"managed security service
+provider (MSSP)"	D333::Acronyms::Definition
+J1U$vrxJo:	AcronymsDefinition	WGU BSDA::AcronymsDefinition	compels holders of your personal<br>records to turn them over to the government; this letter is not subject to judicial review or oversight.	national security letter (NSL)	D333::Acronyms::Definition
+pwLRF+]<GE	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a hardware- or software-based network
+security system that is able to detect and
+block sophisticated attacks by filtering
+network traffic dependent on the packet
+contents."	next-generation firewall (NGFW)	D333::Acronyms::Definition
+PZrg^mH-[,	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"prohibits national security letter (NSL)
+recipients from informing anyone, even
+the person who is the subject of the (NSL) request, that the government has secretly requested his or her records."	(NSL)&nbsp;gag provision	D333::Acronyms::Definition
+Mq^!,;JJnH	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"information from the electronic health
+record (EHR) that are routinely shared
+with the patient—such as personal identifiers, contact information, health provider
+information, problem list, medication history, allergies, immunizations, and lab
+and test results."	personal health record (PHR)	D333::Acronyms::Definition
+q%Qs`75Yq4	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act that created the position of intellectual property enforcement coordinator within the executive office of the president. it also increased trademark
+and copyright enforcement and substantially increased penalties for infringement."	Prioritizing Resources and Organization for Intellectual Property (PRO-IP) Act of 2008	D333::Acronyms::Definition
+xzOt_m!{:y	AcronymsDefinition	WGU BSDA::AcronymsDefinition	a business entity that coemploys the employees of its clients and typically assumes responsibility for all human resource management functions.	professional employer organization (PEO)	D333::Acronyms::Definition
+I%ODs8Nrg/	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"methods within the development process
+that are designed to guarantee reliable
+operation of a product."	quality assurance (QA)	D333::Acronyms::Definition
+n4dz..*8*o	AcronymsDefinition	WGU BSDA::AcronymsDefinition	the estimated loss that would be incurred if a risk event occurs.	single loss expectancy (SLE)	D333::Acronyms::Definition
+PRAbR&EO=r	AcronymsDefinition	WGU BSDA::AcronymsDefinition	two trade groups that represents the world's largest software and hardware manufacturers.	software &amp; information industry association (SIIA) and the business software alliance (BSA)	D333::Acronyms::Definition
+sK`hwsOR1F	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an auditing standard issued by the auditing standards board of the American Institute of Certified Public Accountants (AICPA). it demonstrates that an
+outsourcing firm has effective internal
+controls in accordance with the sarbanes-oxley act of 2002."	(SSAE) No. 16 audit report	D333::Acronyms::Definition
+oI0V44BAeV	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a lawsuit filed by corporations, government officials, and others against citizens
+and community groups who oppose them
+on matters of concern. the lawsuit is typically without merit and is used to intimidate critics out of fear of the cost and
+effort associated with a major legal battle."	"strategic lawsuit against public
+participation (SLAPP)"	D333::Acronyms::Definition
+PH(E,~kr75	AcronymsDefinition	WGU BSDA::AcronymsDefinition	a communications protocol or system of rules that ensures privacy between communicating applications and their users on the Internet.	transport layer security (TLS)	D333::Acronyms::Definition leech
+b~VLS*J,f!	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"established in 2003 to protect the nation's Internet infrastructure against cyberattacks, it serves as a clearinghouse
+for information on new viruses, worms,
+and other computer security topics."	U.S. computer emergency readiness team (US-CERT)	D333::Acronyms::Definition
+AD;~k5gF.e	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act drafted in the 1970s to bring uniformity to all the United States in the area
+of trade secret law."	"uniform trade secrets act
+(UTSA)"	D333::Acronyms::Definition
+NTj,v]M*AR	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a device that records vehicle and occupant data for a few seconds before, during, and after any vehicle crash that is
+severe enough to deploy the vehicle's air
+bags."	"vehicle event data recorder
+(EDR)"	D333::Acronyms::Definition
+ev|EAS)i_[	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a conflict between the (IT) worker's (or
+the IT Firm's) self-interest and the client's
+interests."	conflict of interest (COI)	D333::Acronyms::Definition
+GswwcM2>u}	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"states that it is legal to spam, provided
+the messages meet a few basic requirements—spammers cannot disguise their
+identity by using a false return address,
+the email must include a label specifying
+that it is an ad or a solicitation, and the
+email must include a way for recipients to
+indicate that they do not want future mass
+mailings."	controlling the assault of non-solicited pornography and marketing (CAN-SPAM) act	D333::Acronyms::Definition
+IDk.xjV4/r	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"designed to strengthen data protection
+for individuals within the (EU) by addressing the export of personal data outside
+the (EU.)"	general data protection regulation (GDPR)	D333::Acronyms::Definition
+InVO(J(1xW	AcronymsDefinition	WGU BSDA::AcronymsDefinition	legally obtained information that is gathered to help a company gain and advantage over its rivals.	competitive intelligence (CI)	D333::Acronyms::Definition
+cfh8c_z.%D	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"congress enacted this law in 2006 in
+memory of a 6 year old abducted from a
+department store and murdered. setting a national standard for which sex offenders must register and for what data must be captured."	"Sex Offender Registration and Notification Provisions (SORNA) of the Adam
+Walsh Child Protection and Safety Act of 2006"	D333::Acronyms::Definition
+bj?Jnk>B*-	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a comprehensive view of the patient's complete
+medical history designed to be shared with authorized providers and staff from
+more than one organization."	electronic health record (EHR)	D333::Acronyms::Definition leech
+g;>0M**.!o	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"the process of sharing patient-level electronic
+health information between different organizations."	Health Information Exchange (HIE)	D333::Acronyms::Definition
+tf*(&9z$:m	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act that allows
+trademark owners to challenge foreign cybersquatters otherwise beyond the
+jurisdiction of U.S. courts."	anti-cybersquatting consumer protection act (ACPA)	D333::Acronyms::Definition
+"Jdrr#AaJYo"	AcronymsDefinition	WGU BSDA::AcronymsDefinition	a business information system used to improve<br>decision making in a variety of industries. it can develop accurate forecasts of<br>customer demand, recommend stocks and bonds, or schedule shift workers to<br>minimize cost while meeting customer service goals.	decision support system (DSS)	D333::Acronyms::Definition
+rZ/^mEsDkv	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"amended the EEA to create a
+federal civil remedy for trade secret misappropriation."	Defend Trade Secrets Act (DTSA)	D333::Acronyms::Definition
+zYm]C7g<>.	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a system that
+enables purchasers to evaluate, compare, and select electronic products based on
+a total of 51 environmental criteria."	electronic product environmental assessment tool (EPEAT)	D333::Acronyms::Definition
+emw/kFwH$x	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an act that required
+national standards to protect patients’ health information from being disclosed
+without their consent."	Health Insurance Portability and Accountability Act (HIPPA)	D333::Acronyms::Definition
+L1?X|I*8MU	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"a nonprofit corporation
+responsible for managing the internet's domain name system."	Internet Corporation for Assigned Names (ICANN)	D333::Acronyms::Definition
+Q~p>ryLsM5	AcronymsDefinition	WGU BSDA::AcronymsDefinition	a nongovernmental organization&nbsp;(NGO) that promotes and defends freedom of information and freedom of the press around the world.	Reporters without Borders (RWB)	D333::Acronyms::Definition
+fX$suCrZ^P	AcronymsDefinition	WGU BSDA::AcronymsDefinition	"an agreement of the WTO that requires
+member governments to ensure that intellectual property rights can be enforced
+under their laws and that penalties for infringement are tough enough to deter
+further violations."	"World Trade Organization Agreement on Trade-Related
+Aspects of Intellectual Property Rights (WTO TRIPS)"	D333::Acronyms::Definition
