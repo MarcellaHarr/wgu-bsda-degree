@@ -7,7 +7,7 @@
 ![](../../img/C721_Cover.jpg)
 
 <br>
-<code style="color: aquamarine">Yay, I passed!</code> on March 15th, 2024.
+$${\color{lightgreen}Yay, \space I \space passed!}$$ on March 15th, 2024.
 <br>
 <br>
 
