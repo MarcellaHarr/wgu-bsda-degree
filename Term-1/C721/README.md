@@ -15,6 +15,6 @@ My strategy was to select a model that would allow me to explain and demonstrate
 An added benefit of this course is that upon passing, you'll receive a voucher for MSI's Change Management certification.
 
 <br>
-![Tommy Boy Passed GIF from Tenor.com](https://tenor.com/view/tommy-boy-passed-omg-gif-7235732) on March 15th, 2024.
+![Tommy Boy Passed GIF from Tenor.com](https://tenor.com/view/tommy-boy-passed-omg-gif-7235732.gif) on March 15th, 2024.
 <br>
 <br>
