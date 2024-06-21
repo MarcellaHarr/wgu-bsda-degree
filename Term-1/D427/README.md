@@ -12,7 +12,7 @@
 
 Data Management Applications was taught in a way that, given the choice, I would change. Students were required to use a service called zyBooks. Initially, I thought I would enjoy it because of its interactivity. However, the lack of videos made the overall experience quite boring. Although the quick tasks, quizzes, and tests included GIF-like clips, they didn't significantly enhance the learning process.
 
-Nevertheless, I found great benefit in utilizing YouTube and W3Schools. Despite having prior SQL experience with MySQL and SQLite, there were moments when I struggled, even with basic SELECT statements because the course material often seemed to overexplain simple concepts.
+Nevertheless, I found great benefit in utilizing YouTube and W3Schools. Despite having prior SQL experience with MySQL and SQLite, there were moments when I struggled, even with basic SELECT statements because the course material often seemed to over explain simple concepts.
 
 Attending every available cohort session proved valuable as well. Randomly discussed nuggets of information provided insights I hadn't encountered before. Just a quick note, don't underestimate the material covered during these sessions because more than likely some versions will be on the objective assessment (OA).
 
@@ -23,4 +23,11 @@ This course is intensive, so allocating time to read the zyBook chapters and pra
 
 <br>
 
-![Amy Poehler Leslie Knope from Tenor.com](../../img/D427_Amy-Poehler.gif) on April 3rd, 2024
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="../../img/D427_Amy-Poehler.gif" alt="Amy Poehler Leslie Knope from Tenor.com" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>
+    <p align="center">Yup, on April 3rd, 2024</p>
+  </figcaption>
+</figure>
