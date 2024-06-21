@@ -3,4 +3,6 @@ images/
 
 # Visual Studio Code Folder
 vscode/
+vscode/settings.json
 .vscode/
+.vscode/settings.json
