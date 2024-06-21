@@ -20,6 +20,6 @@ For the (OA) I had 68 questions and failed only the "Identifies Interventions - 
 <br>
 
 <figure style="text-align: center;">
-  <img src="https://placehold.co/400x300" alt="Blank placeholder">
+  <img src="../../img/D333_Owl_Surprised_Passed.gif" alt="Blank placeholder" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center; color: teal;">Yup, on April 15th, 2024</figcaption>
 </figure>
