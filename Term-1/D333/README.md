@@ -19,7 +19,9 @@ Your best bet is to read all the chapters required, complete the study guide, an
 For the (OA) I had 68 questions and failed only the "Identifies Interventions - 10%". I actually know why I did poorly on this section and that's because I couldn't watch the *AI Ethics: Understanding Bias and Fairness in Your Models* video, it was too boring to watch and the four or five questions asked on the test, I was only able to remember about two of them.
 <br>
 
-<figure style="align: center;">
-  <img src="../../img/D333_Owl_Surprised_Passed.gif" alt="Blank placeholder" style="display: block; margin: 0 auto;">
-  <figcaption style="text-align: center; color: teal;">Yup, on April 15th, 2024</figcaption>
+<figure style="text-align: center; color: teal;">
+  <p align="center">
+    <img src="../../img/D333_Owl_Surprised_Passed.gif" alt="Blank placeholder" style="display: block; margin: 0 auto;">
+  </p>
+  <figcaption>Yup, on April 15th, 2024</figcaption>
 </figure>
