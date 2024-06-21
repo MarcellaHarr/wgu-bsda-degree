@@ -21,7 +21,9 @@ For the (OA) I had 68 questions and failed only the "Identifies Interventions - 
 
 <figure style="text-align: center; color: teal;">
   <p align="center">
-    <img src="../../img/D333_Owl_Surprised_Passed.gif" alt="Blank placeholder" style="display: block; margin: 0 auto;">
+    <img src="../../img/D333_Owl_Surprised_Passed.gif" alt="Tensor's, That Moment When GIF" style="display: block; margin: 0 auto;">
   </p>
-  <figcaption>Yup, on April 15th, 2024</figcaption>
+  <figcaption>
+    <p align="center">Yup, on April 15th, 2024</p>
+  </figcaption>
 </figure>
