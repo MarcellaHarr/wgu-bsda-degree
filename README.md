@@ -8,7 +8,7 @@ I will be sharing my journey through obtaining a BSDA degree from Western Govern
 <br>
 <br>
 
-> <p style="font-size: 12px; color: yellow;">02/07/24</p>
+> <p style="font-size: 12px; color: yellow !important;">02/07/24</p>
 > <p style="font-size: 11px;">Introduction to Analytics – D491. First attempt. Passed.</p>
 <br>
 
