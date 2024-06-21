@@ -6,7 +6,13 @@
 
 <br>
 
-![Cover Image ALT Placeholder](https://placehold.co/600x400)
+<figure style="text-align: center; font-size: 11px;">
+  <p align="center"></p>
+  <img src="../../img/D428_Cover.jpg" alt="Photo by UX Indonesia on Unsplash" style="display: block; margin: 0 auto;">
+  <figcaption>
+    <p align="center">Photo by UX Indonesia on Unsplash</p>
+  </figcaption>
+</figure>
 <br>
 <br>
 
