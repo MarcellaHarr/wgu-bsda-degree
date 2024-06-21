@@ -6,7 +6,13 @@
 
 <br>
 
-![Cover Image ALT Placeholder](https://placehold.co/600x400)
+<figure style="text-align: center; font-size: 11px;">
+  <p align="center"></p>
+  <img src="../../img/C458_Cover.jpg" alt="Photo by Kimzy Nanney on Unsplash" style="display: block; margin: 0 auto;">
+  <figcaption>
+    <p align="center">Photo by Kimzy Nanney on Unsplash</p>
+  </figcaption>
+</figure>
 <br>
 <br>
 
